@@ -1,6 +1,6 @@
 {
     "Thé": {
-        "label": "Thé",
+        "label": "cha",
         "titre": {
             "fr": "茶 Chá",
             "en": "茶 Chá"
@@ -11,7 +11,7 @@
         }
     },
     "Théière": {
-        "label": "Théière",
+        "label": "chahu",
         "titre": {
             "fr": "茶壺 CháHú",
             "en": "茶壺 CháHú"
@@ -22,7 +22,7 @@
         }
     },
     "Gaiwan": {
-        "label": "Gaiwan",
+        "label": "gaiwan",
         "titre": {
             "fr": "蓋碗 GàiWǎn",
             "en": "蓋碗 GàiWǎn"
@@ -33,7 +33,7 @@
         }
     },
     "Manon Clouzeau": {
-        "label": "Manon Clouzeau",
+        "label": "manon-clouzeau",
         "titre": {
             "fr": "Manon Clouzeau",
             "en": "Manon Clouzeau"
@@ -44,7 +44,7 @@
         }
     },
     "Jé le Potier": {
-        "label": "Jé le Potier",
+        "label": "je-le-potier",
         "titre": {
             "fr": "Jé le Potier",
             "en": "Jé le Potier"
@@ -55,7 +55,7 @@
         }
     },
     "Mademoiselles Céramique": {
-        "label": "Mademoiselles Céramique",
+        "label": "mademoiselles-ceramique",
         "titre": {
             "fr": "Mademoiselles Céramique",
             "en": "Mademoiselles Céramique"
