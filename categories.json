@@ -1,5 +1,5 @@
 {
-    "Thé": {
+    "cha": {
         "label": "cha",
         "titre": {
             "fr": "茶 Chá",
@@ -10,7 +10,7 @@
             "en": "A selection of teas, from China or Taiwan. They tell their story, speak of their cultivar, their terroir... They are here because something touched us when we discovered them and we think they are worth a try. All you have to do is choose! And so that the price does not influence your choice and you let your desires guide you, we propose a single price (15 €/25g, excluding special teas)."
         }
     },
-    "Théière": {
+    "chahu": {
         "label": "chahu",
         "titre": {
             "fr": "茶壺 CháHú",
@@ -21,7 +21,7 @@
             "en": "The teapot, 茶壺 - CháHú, allows precise control of the infusion of the leaves. Born in the 16th century at the hands of a certain 供春 - Gōng Chūn, the 供春壶 - Gōng Chūn Hú shape inspired the more than 200 models that exist today. Consisting of a 盖 - Gài (lid), 身 - Shēn (body) and 低 - Dī (bottom), each teapot is traditionally used for a single type of tea."
         }
     },
-    "Gaiwan": {
+    "gaiwan": {
         "label": "gaiwan",
         "titre": {
             "fr": "蓋碗 GàiWǎn",
@@ -32,7 +32,7 @@
             "en": "The 蓋碗 - GàiWǎn, is the ideal utensil to start on the road to tea. Traditionally enamelled, it remains neutral and can therefore be used with all types of tea. Its shape makes it easy to observe the evolution of the infusion. With a little practice, preparing your tea with the GàiWǎn will be a real moment of pleasure and sharing."
         }
     },
-    "Manon Clouzeau": {
+    "manon-clouzeau": {
         "label": "manon-clouzeau",
         "titre": {
             "fr": "Manon Clouzeau",
@@ -43,7 +43,7 @@
             "en": "Enter the world of Manon Clouzeau, where ceramics is an art of the moment, of gesture and feeling."
         }
     },
-    "Jé le Potier": {
+    "je-le-potier": {
         "label": "je-le-potier",
         "titre": {
             "fr": "Jé le Potier",
@@ -54,7 +54,7 @@
             "en": "Jérôme Roussel dedicates his work to the field of tea. He explores it through daily practice, so that the experience is transformed into concrete and useful qualities for the pieces. He handcrafts all styles of teapots, but also kettles, braziers, tea jars, tea bowls… with a sense of detail and the pleasure of precision, so that you can fully enjoy your “tea moments”."
         }
     },
-    "Mademoiselles Céramique": {
+    "mademoiselles-ceramique": {
         "label": "mademoiselles-ceramique",
         "titre": {
             "fr": "Mademoiselles Céramique",
