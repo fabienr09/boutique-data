@@ -1,26 +1,25 @@
-[
-    {
-        "id":"lu2",
-        "titre":{
-            "en":"都匀毛尖 - DūYúnMáoJiān",
-            "fr":"都匀毛尖 - DūYúnMáoJiān"
+[{
+        "id": "lu2",
+        "titre": {
+            "en": "都匀毛尖 - DūYúnMáoJiān",
+            "fr": "都匀毛尖 - DūYúnMáoJiān"
         },
-        "modification":"2021-06-28",
-        "création":"2021-06-28",
-        "catégorie":"cha",
-        "description":{
-            "en":"This tea is one of the iconic teas of 貴州 - GuìZhōu. Miss 螺 - Luó has tea bushes that she planted herself, but also wild tea bushes, growing on extremely healthy land in a breathtaking landscape. This tea is from those wild tea bushes.",
-            "fr":"Ce thé est l’un des thés emblématiques du 貴州 - GuìZhōu. Madame 螺 - Luó possède des théiers qu’elle a elle-même plantés, mais aussi des théiers sauvages, poussant sur des terres extrêmement saines dans un paysage à couper le souffle. Ce thé est issu des théiers sauvages de ses parcelles."
+        "modification": "2021-06-28",
+        "création": "2021-06-28",
+        "catégorie": "cha",
+        "description": {
+            "en": "This tea is one of the iconic teas of 貴州 - GuìZhōu. Miss 螺 - Luó has tea bushes that she planted herself, but also wild tea bushes, growing on extremely healthy land in a breathtaking landscape. This tea is from those wild tea bushes.",
+            "fr": "Ce thé est l’un des thés emblématiques du 貴州 - GuìZhōu. Madame 螺 - Luó possède des théiers qu’elle a elle-même plantés, mais aussi des théiers sauvages, poussant sur des terres extrêmement saines dans un paysage à couper le souffle. Ce thé est issu des théiers sauvages de ses parcelles."
         },
-        "prix":15,
-        "poids":0.025,
-        "quantité_produite":7,
-        "altitude":1000,
-        "producteur":"Madame 螺 - Luó",
-        "type":"vert - 綠茶 - LǜChá",
-        "village":"",
-        "province":"貴州 - GuìZhōu",
-        "photos":[
+        "prix": 15,
+        "poids": 0.025,
+        "quantité_produite": 7,
+        "altitude": 1000,
+        "producteur": "Madame 螺 - Luó",
+        "type": "vert - 綠茶 - LǜChá",
+        "village": "",
+        "province": "貴州 - GuìZhōu",
+        "photos": [
             "LuCha_DuYumMaoJian_1-a.jpg",
             "LuCha_DuYumMaoJian_1-b.jpg",
             "LuCha_DuYumMaoJian_1-c.jpg",
@@ -32,83 +31,83 @@
         ]
     },
     {
-        "id":"wulong1",
-        "titre":{
-            "en":"番薯香單叢 - FānShǔXiāng DānCóng",
-            "fr":"番薯香單叢 - FānShǔXiāng DānCóng"
+        "id": "wulong1",
+        "titre": {
+            "en": "番薯香單叢 - FānShǔXiāng DānCóng",
+            "fr": "番薯香單叢 - FānShǔXiāng DānCóng"
         },
-        "modification":"2021-06-06",
-        "création":"2021-06-06",
-        "catégorie":"cha",
-        "description":{
-            "en":"We prefer to work with growers we know and that is not the case for this tea. This 烏龍 - WūLóng FānShǔ (sweet potato) is Violaine's favorite, its roast is a bit more intense than normal. If our purchase information is accurate, no pesticides or artificial fertilizers were used.",
-            "fr":"Nous préférons travailler avec des personnes productrices que nous connaissons et ce n'est pas le cas pour ce thé. Ce 烏龍 - WūLóng FānShǔ (patate douce) est le coup de cœur de Violaine, sa torréfaction est un peu plus appuyée que la normale. Si nos informations d'achat sont exactes, aucun pesticide ou engrais artificiel n'ont été utilisés."
+        "modification": "2021-06-06",
+        "création": "2021-06-06",
+        "catégorie": "cha",
+        "description": {
+            "en": "We prefer to work with growers we know and that is not the case for this tea. This 烏龍 - WūLóng FānShǔ (sweet potato) is Violaine's favorite, its roast is a bit more intense than normal. If our purchase information is accurate, no pesticides or artificial fertilizers were used.",
+            "fr": "Nous préférons travailler avec des personnes productrices que nous connaissons et ce n'est pas le cas pour ce thé. Ce 烏龍 - WūLóng FānShǔ (patate douce) est le coup de cœur de Violaine, sa torréfaction est un peu plus appuyée que la normale. Si nos informations d'achat sont exactes, aucun pesticide ou engrais artificiel n'ont été utilisés."
         },
-        "prix":15,
-        "poids":0.025,
-        "millésime":"avril 2020",
-        "altitude":980,
-        "quantité_produite":8,
-        "producteur":"inconnu",
-        "type":"bleu-vert - 青茶 - QīngChá",
-        "fiche":"FengHuangDanCong",
-        "village":"獅頭腳 - ShīTóuJiǎo",
-        "province":"海南 - GuǎngDōng",
-        "cultivar":"杏仁 - XìngRén",
-        "photos":[
+        "prix": 15,
+        "poids": 0.025,
+        "millésime": "avril 2020",
+        "altitude": 980,
+        "quantité_produite": 8,
+        "producteur": "inconnu",
+        "type": "bleu-vert - 青茶 - QīngChá",
+        "fiche": "FengHuangDanCong",
+        "village": "獅頭腳 - ShīTóuJiǎo",
+        "province": "海南 - GuǎngDōng",
+        "cultivar": "杏仁 - XìngRén",
+        "photos": [
             "QingCha_FanShuXiang-DanCong_1-a.jpg",
             "QingCha_FanShuXiang-DanCong_1-b.jpg"
         ]
     },
     {
-        "id":"puer2",
-        "titre":{
-            "en":"茶化石 - CháHuàShí - 5.29 oz",
-            "fr":"茶化石 - CháHuàShí - 150 g"
+        "id": "puer2",
+        "titre": {
+            "en": "茶化石 - CháHuàShí - 5.29 oz",
+            "fr": "茶化石 - CháHuàShí - 150 g"
         },
-        "modification":"2021-09-15",
-        "création":"2021-06-06",
-        "catégorie":"cha",
-        "description":{
-            "en":"This 茶化石 - CháHuàShí is the only fossil tea of the brand, marking the originality from other cooked Pǔ'ěr. This very rare tea is worked to obtain a shape of small pebbles, which do not reveal the leaves and buds during infusion. Each numbered box comes with a certificate of authenticity.",
-            "fr":"Ce 茶化石 - CháHuàShí est le seul thé fossile de la marque, marquant l’originalité d’avec les autres Pǔ'ěr cuit. Ce thé très rare est travaillé afin d'obtenir une forme de petits cailloux, qui ne révèlent pas les feuilles et bourgeons à l’infusion. Chaque boite numérotée est livrée avec un certificat d'authenticité."
+        "modification": "2021-09-15",
+        "création": "2021-06-06",
+        "catégorie": "cha",
+        "description": {
+            "en": "This 茶化石 - CháHuàShí is the only fossil tea of the brand, marking the originality from other cooked Pǔ'ěr. This very rare tea is worked to obtain a shape of small pebbles, which do not reveal the leaves and buds during infusion. Each numbered box comes with a certificate of authenticity.",
+            "fr": "Ce 茶化石 - CháHuàShí est le seul thé fossile de la marque, marquant l’originalité d’avec les autres Pǔ'ěr cuit. Ce thé très rare est travaillé afin d'obtenir une forme de petits cailloux, qui ne révèlent pas les feuilles et bourgeons à l’infusion. Chaque boite numérotée est livrée avec un certificat d'authenticité."
         },
-        "prix":100,
-        "poids":0.15,
-        "quantité_produite":2,
-        "altitude":560,
-        "producteur":"龍園號 - LóngYuánHào",
-        "province":"西雙版納州 - XīShuāngBǎnNàZhōu",
-        "type":"Pǔ'ěr cuit - 熟普洱 - Shú Pǔ'ěr",
-        "photos":[
+        "prix": 100,
+        "poids": 0.15,
+        "quantité_produite": 2,
+        "altitude": 560,
+        "producteur": "龍園號 - LóngYuánHào",
+        "province": "西雙版納州 - XīShuāngBǎnNàZhōu",
+        "type": "Pǔ'ěr cuit - 熟普洱 - Shú Pǔ'ěr",
+        "photos": [
             "PuEr_ChaHuaShi_1-a.jpg",
             "PuEr_ChaHuaShi_1-b.jpg",
             "PuEr_ChaHuaShi_1-c.jpg"
         ]
     },
     {
-        "id":"puer4",
-        "titre":{
-            "en":"冰島 壩歪 - BīngDǎo Bà Wāi",
-            "fr":"冰島 壩歪 - BīngDǎo Bà Wāi"
+        "id": "puer4",
+        "titre": {
+            "en": "冰島 壩歪 - BīngDǎo Bà Wāi",
+            "fr": "冰島 壩歪 - BīngDǎo Bà Wāi"
         },
-        "modification":"2021-10-08",
-        "création":"2021-10-08",
-        "catégorie":"cha",
-        "description":{
-            "en":"This 生普洱 - Shēng Pǔ'ěr tea comes from tea bushes growing on the 邦馬 - Bāng Mǎ mountain (which is always snow-covered) between 2,500 and 3,200 metres above sea level. The plants are between 4 and 30 metres high. They are located around the former ethnic 傣 - Dǎi village of 冰島 - BīngDǎo in 臨滄 - Lín Cāng district. Liu Jie harvests the leaves of these tea bushes to make the Pǔ'ěr that we suggest you discover.",
-            "fr":"Ce thé 生普洱 - Shēng Pǔ'ěr est issu de théiers poussant sur la montagne de 邦馬 - Bāng Mǎ (qui est toujours enneigée) entre 2500 et 3200 mètres d’altitude. Les plants mesurent entre 4 et 30 mètres de haut. Ils sont situés autour de l’ancien village de l’ethnie 傣 - Dǎi de 冰島 - BīngDǎo dans le district de 臨滄 - Lín Cāng. Liu Jie récolte les feuilles de ces théiers pour en faire le Pǔ'ěr que nous vous proposons de découvrir."
+        "modification": "2021-10-08",
+        "création": "2021-10-08",
+        "catégorie": "cha",
+        "description": {
+            "en": "This 生普洱 - Shēng Pǔ'ěr tea comes from tea bushes growing on the 邦馬 - Bāng Mǎ mountain (which is always snow-covered) between 2,500 and 3,200 metres above sea level. The plants are between 4 and 30 metres high. They are located around the former ethnic 傣 - Dǎi village of 冰島 - BīngDǎo in 臨滄 - Lín Cāng district. Liu Jie harvests the leaves of these tea bushes to make the Pǔ'ěr that we suggest you discover.",
+            "fr": "Ce thé 生普洱 - Shēng Pǔ'ěr est issu de théiers poussant sur la montagne de 邦馬 - Bāng Mǎ (qui est toujours enneigée) entre 2500 et 3200 mètres d’altitude. Les plants mesurent entre 4 et 30 mètres de haut. Ils sont situés autour de l’ancien village de l’ethnie 傣 - Dǎi de 冰島 - BīngDǎo dans le district de 臨滄 - Lín Cāng. Liu Jie récolte les feuilles de ces théiers pour en faire le Pǔ'ěr que nous vous proposons de découvrir."
         },
-        "prix":15,
-        "poids":0.025,
-        "quantité_produite":10,
-        "producteur":"劉姐 - Liú jiě",
-        "type":"Pǔ'ěr cru - 普洱生茶 - Pǔ’ěr ShēngChá",
-        "altitude":3000,
-        "village":"",
-        "province":"雲南 - Yúnnán",
-        "cultivar":"",
-        "photos":[
+        "prix": 15,
+        "poids": 0.025,
+        "quantité_produite": 10,
+        "producteur": "劉姐 - Liú jiě",
+        "type": "Pǔ'ěr cru - 普洱生茶 - Pǔ’ěr ShēngChá",
+        "altitude": 3000,
+        "village": "",
+        "province": "雲南 - Yúnnán",
+        "cultivar": "",
+        "photos": [
             "PuEr_Bingdao-Ba-Wai_1-a.jpg",
             "PuEr_Bingdao-Ba-Wai_1-b.jpg",
             "PuEr_Bingdao-Ba-Wai_1-c.jpg",
@@ -119,45 +118,45 @@
         ]
     },
     {
-        "id":"ga2",
-        "titre":{
-            "en":"Basic GàiWǎn",
-            "fr":"GàiWǎn basique"
+        "id": "ga2",
+        "titre": {
+            "en": "Basic GàiWǎn",
+            "fr": "GàiWǎn basique"
         },
-        "modification":"2021-04-10",
-        "création":"2021-04-10",
-        "catégorie":"gaiwan",
-        "description":{
-            "en":"White basic porcelain GàiWǎn.",
-            "fr":"GàiWǎn basique en porcelaine blanche."
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "gaiwan",
+        "description": {
+            "en": "White basic porcelain GàiWǎn.",
+            "fr": "GàiWǎn basique en porcelaine blanche."
         },
-        "prix":8,
-        "poids":0.12,
-        "capacité":70,
-        "quantité_produite":8,
-        "photos":[
+        "prix": 8,
+        "poids": 0.12,
+        "capacité": 70,
+        "quantité_produite": 8,
+        "photos": [
             "gaiwan_2-a.jpg",
             "gaiwan_2-b.jpg"
         ]
     },
     {
-        "id":"sdv2",
-        "titre":{
-            "en":"Travel set",
-            "fr":"Set de voyage"
+        "id": "sdv2",
+        "titre": {
+            "en": "Travel set",
+            "fr": "Set de voyage"
         },
-        "modification":"2021-04-10",
-        "création":"2021-04-10",
-        "catégorie":"gaiwan",
-        "description":{
-            "en":"This beginners kit includes the essentiels to prepare authentic tea : a 蓋碗 - GàiWǎn, a 茶海 - CháHǎi and three tea bowls (茶杯 - CháBēi). It is the perfect travel companion thanks to its protective cover.",
-            "fr":"Ce kit de démarrage comprend les éléments essentiels à la préparation du thé authentique : un 蓋碗 - GàiWǎn, un 茶海 - CháHǎi et trois bols à thé (茶杯 - CháBēi). C'est aussi le compagnon de voyage idéal grâce à sa housse de protection."
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "gaiwan",
+        "description": {
+            "en": "This beginners kit includes the essentiels to prepare authentic tea : a 蓋碗 - GàiWǎn, a 茶海 - CháHǎi and three tea bowls (茶杯 - CháBēi). It is the perfect travel companion thanks to its protective cover.",
+            "fr": "Ce kit de démarrage comprend les éléments essentiels à la préparation du thé authentique : un 蓋碗 - GàiWǎn, un 茶海 - CháHǎi et trois bols à thé (茶杯 - CháBēi). C'est aussi le compagnon de voyage idéal grâce à sa housse de protection."
         },
-        "prix":45,
-        "poids":0.45,
-        "capacité":110,
-        "quantité_produite":17,
-        "photos":[
+        "prix": 45,
+        "poids": 0.45,
+        "capacité": 110,
+        "quantité_produite": 16,
+        "photos": [
             "set-de-voyage_1-a.jpg",
             "set-de-voyage_1-b.jpg",
             "set-de-voyage_1-c.jpg",
@@ -165,25 +164,25 @@
         ]
     },
     {
-        "id":"th3",
-        "titre":{
-            "en":"遍訪古 - BiànFǎngGǔ teapot",
-            "fr":"Théière 遍訪古 - BiànFǎngGǔ"
+        "id": "th3",
+        "titre": {
+            "en": "遍訪古 - BiànFǎngGǔ teapot",
+            "fr": "Théière 遍訪古 - BiànFǎngGǔ"
         },
-        "modification":"2021-04-10",
-        "création":"2021-04-10",
-        "catégorie":"chahu",
-        "description":{
-            "en":"This teapot has a 遍訪古 - BiànFǎngGǔ shape. It was made from 黑金鋼沙 - HēiJīnGāngShā, a mix of two clays: 紫泥 - ZǐNí and 寶藍朱泥 - BǎolánZhūNí.",
-            "fr":"Cette théière est de forme 遍訪古 - BiànFǎngGǔ. Elle a été fabriquée à partir d'un mélange appelé 黑金鋼沙 - HēiJīnGāngShā, composé de deux argiles : 紫泥 - ZǐNí et 寶藍朱泥 - BǎolánZhūNí."
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "chahu",
+        "description": {
+            "en": "This teapot has a 遍訪古 - BiànFǎngGǔ shape. It was made from 黑金鋼沙 - HēiJīnGāngShā, a mix of two clays: 紫泥 - ZǐNí and 寶藍朱泥 - BǎolánZhūNí.",
+            "fr": "Cette théière est de forme 遍訪古 - BiànFǎngGǔ. Elle a été fabriquée à partir d'un mélange appelé 黑金鋼沙 - HēiJīnGāngShā, composé de deux argiles : 紫泥 - ZǐNí et 寶藍朱泥 - BǎolánZhūNí."
         },
-        "origine":"宜興 - YíXìng - 江蘇 - JiāngSū",
-        "producteur":"YanLi",
-        "prix":89,
-        "poids":0.18,
-        "capacité":130,
-        "quantité_produite":1,
-        "photos":[
+        "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
+        "producteur": "YanLi",
+        "prix": 89,
+        "poids": 0.18,
+        "capacité": 130,
+        "quantité_produite": 1,
+        "photos": [
             "theiere_3-a.jpg",
             "theiere_3-b.jpg",
             "theiere_3-c.jpg",
@@ -191,24 +190,24 @@
         ]
     },
     {
-        "id":"th4",
-        "titre":{
-            "en":"西施 - XīShī teapot",
-            "fr":"Théière 西施 - XīShī"
+        "id": "th4",
+        "titre": {
+            "en": "西施 - XīShī teapot",
+            "fr": "Théière 西施 - XīShī"
         },
-        "modification":"2021-04-10",
-        "création":"2021-04-10",
-        "origine":"宜興 - YíXìng - 江蘇 - JiāngSū",
-        "catégorie":"chahu",
-        "description":{
-            "en":"This 宜興-YíXìng red clay teapot of 西施-XīShī shape made in 半手工-BànShǒuGōng mode, i.e. semi-manually, using molds.",
-            "fr":"Cette théière en argile rouge du 宜興 - YíXìng de forme 西施 - XīShī fabriquée en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules."
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
+        "catégorie": "chahu",
+        "description": {
+            "en": "This 宜興-YíXìng red clay teapot of 西施-XīShī shape made in 半手工-BànShǒuGōng mode, i.e. semi-manually, using molds.",
+            "fr": "Cette théière en argile rouge du 宜興 - YíXìng de forme 西施 - XīShī fabriquée en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules."
         },
-        "prix":55,
-        "poids":0.185,
-        "capacité":200,
-        "quantité_produite":1,
-        "photos":[
+        "prix": 55,
+        "poids": 0.185,
+        "capacité": 200,
+        "quantité_produite": 1,
+        "photos": [
             "theiere_4-a.jpg",
             "theiere_4-b.jpg",
             "theiere_4-c.jpg",
@@ -216,25 +215,25 @@
         ]
     },
     {
-        "id":"th7",
-        "titre":{
-            "en":"蓮花湖 - LiánHuāHú teapot",
-            "fr":"Théière 蓮花湖 - LiánHuāHú"
+        "id": "th7",
+        "titre": {
+            "en": "蓮花湖 - LiánHuāHú teapot",
+            "fr": "Théière 蓮花湖 - LiánHuāHú"
         },
-        "modification":"2021-06-01",
-        "création":"2021-06-01",
-        "origine":"宜興 - YíXìng - 江蘇 - JiāngSū",
-        "catégorie":"chahu",
-        "description":{
-            "en":"This 宜興 - YíXìng - 蓮花湖 - LiánHuāHú teapot, depicting a Lotus flower, was handmade by master ceramist 潘博鴻 - PānBóHong.",
-            "fr":"Cette théière 宜興 - YíXìng - 蓮花湖 - LiánHuāHú, représentant une fleur de Lotus, a été réalisée à la main par la maître céramiste 潘博鴻 - PānBóHong."
+        "modification": "2021-06-01",
+        "création": "2021-06-01",
+        "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
+        "catégorie": "chahu",
+        "description": {
+            "en": "This 宜興 - YíXìng - 蓮花湖 - LiánHuāHú teapot, depicting a Lotus flower, was handmade by master ceramist 潘博鴻 - PānBóHong.",
+            "fr": "Cette théière 宜興 - YíXìng - 蓮花湖 - LiánHuāHú, représentant une fleur de Lotus, a été réalisée à la main par la maître céramiste 潘博鴻 - PānBóHong."
         },
-        "prix":132,
-        "poids":0.163,
-        "capacité":130,
-        "producteur":"潘博鴻 - PānBóHóng",
-        "quantité_produite":1,
-        "photos":[
+        "prix": 132,
+        "poids": 0.163,
+        "capacité": 130,
+        "producteur": "潘博鴻 - PānBóHóng",
+        "quantité_produite": 1,
+        "photos": [
             "theiere_7-a.jpg",
             "theiere_7-b.jpg",
             "theiere_7-c.jpg",
@@ -244,25 +243,25 @@
         ]
     },
     {
-        "id":"th8",
-        "titre":{
-            "en":"石瓢 - ShíPiáo teapot",
-            "fr":"Théière 石瓢 - ShíPiáo"
+        "id": "th8",
+        "titre": {
+            "en": "石瓢 - ShíPiáo teapot",
+            "fr": "Théière 石瓢 - ShíPiáo"
         },
-        "modification":"2021-06-01",
-        "création":"2021-06-01",
-        "catégorie":"chahu",
-        "producteur":"潘博鴻 - PānBóHóng",
-        "origine":"宜興 - YíXìng - 江蘇 - JiāngSū",
-        "description":{
-            "en":"This red clay teapot from 宜興 - YíXìng features the traditional 石瓢 - ShíPiáo shape. It was handmade 自製 - ZìZhì (homemade) by master ceramist 潘博鴻 - PānBóHong.",
-            "fr":"Cette théière en argile rouge du 宜興 - YíXìng reprend la forme traditionnelle 石瓢 - ShíPiáo. Elle a été réalisée à la main 自製 - ZìZhì (fait maison) par la maître céramiste 潘博鴻 - PānBóHong."
+        "modification": "2021-06-01",
+        "création": "2021-06-01",
+        "catégorie": "chahu",
+        "producteur": "潘博鴻 - PānBóHóng",
+        "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
+        "description": {
+            "en": "This red clay teapot from 宜興 - YíXìng features the traditional 石瓢 - ShíPiáo shape. It was handmade 自製 - ZìZhì (homemade) by master ceramist 潘博鴻 - PānBóHong.",
+            "fr": "Cette théière en argile rouge du 宜興 - YíXìng reprend la forme traditionnelle 石瓢 - ShíPiáo. Elle a été réalisée à la main 自製 - ZìZhì (fait maison) par la maître céramiste 潘博鴻 - PānBóHong."
         },
-        "prix":120,
-        "poids":0.15,
-        "capacité":130,
-        "quantité_produite":1,
-        "photos":[
+        "prix": 120,
+        "poids": 0.15,
+        "capacité": 130,
+        "quantité_produite": 1,
+        "photos": [
             "theiere_8-a.jpg",
             "theiere_8-b.jpg",
             "theiere_8-c.jpg",
@@ -272,24 +271,24 @@
         ]
     },
     {
-        "id":"th9",
-        "titre":{
-            "en":"三足乳鼎 - SānZúRǔDǐng teapot",
-            "fr":"Théière 三足乳鼎 - SānZúRǔDǐng"
+        "id": "th9",
+        "titre": {
+            "en": "三足乳鼎 - SānZúRǔDǐng teapot",
+            "fr": "Théière 三足乳鼎 - SānZúRǔDǐng"
         },
-        "modification":"2021-06-01",
-        "création":"2021-06-01",
-        "origine":"臺灣 - Táiwān",
-        "catégorie":"chahu",
-        "description":{
-            "en":"This 三足乳鼎 - SānZúRǔDǐng shaped teapot was made in 臺灣 - Táiwān in 半手工 - BànShǒuGōng mode, which means semi-manual, using molds. It bears an inscription related to Buddhist culture: 觀自在 - GuānZìZài which invites to be at peace with nature.",
-            "fr":"Cette théière de forme 三足乳鼎 - SānZúRǔDǐng fabriquée à 臺灣 - Táiwān en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules. Elle porte une inscription liée à la culture bouddhiste : 觀自在 - GuānZìZài qui invite à être en paix avec la nature."
+        "modification": "2021-06-01",
+        "création": "2021-06-01",
+        "origine": "臺灣 - Táiwān",
+        "catégorie": "chahu",
+        "description": {
+            "en": "This 三足乳鼎 - SānZúRǔDǐng shaped teapot was made in 臺灣 - Táiwān in 半手工 - BànShǒuGōng mode, which means semi-manual, using molds. It bears an inscription related to Buddhist culture: 觀自在 - GuānZìZài which invites to be at peace with nature.",
+            "fr": "Cette théière de forme 三足乳鼎 - SānZúRǔDǐng fabriquée à 臺灣 - Táiwān en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules. Elle porte une inscription liée à la culture bouddhiste : 觀自在 - GuānZìZài qui invite à être en paix avec la nature."
         },
-        "prix":80,
-        "poids":0.135,
-        "capacité":220,
-        "quantité_produite":1,
-        "photos":[
+        "prix": 80,
+        "poids": 0.135,
+        "capacité": 220,
+        "quantité_produite": 1,
+        "photos": [
             "theiere_9-a.jpg",
             "theiere_9-b.jpg",
             "theiere_9-c.jpg",
@@ -299,208 +298,208 @@
         ]
     },
     {
-        "id":"manontas12",
-        "titre":{
-            "en":"茶杯 - CháBēi (small tea bowl)",
-            "fr":"茶杯 - CháBēi (petit bol à thé)"
+        "id": "manontas12",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
-        "modification":"2022-05-17",
-        "création":"2022-05-17",
-        "catégorie":"manon-clouzeau",
-        "description":{
-            "en":"Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        "modification": "2022-05-17",
+        "création": "2022-05-17",
+        "catégorie": "manon-clouzeau",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix":20,
-        "dimension":{
-            "largeur":7.1,
-            "hauteur":3.9
+        "prix": 20,
+        "dimension": {
+            "largeur": 7.1,
+            "hauteur": 3.9
         },
-        "poids":0.035,
-        "capacité":50,
-        "quantité_produite":1,
-        "photos":[
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
             "manon_tasse_12-a.jpg",
             "manon_tasse_12-b.jpg",
             "manon_tasse_12-c.jpg"
         ]
     },
     {
-        "id":"manontas45",
-        "titre":{
-            "en":"茶杯 - CháBēi (small tea bowl)",
-            "fr":"茶杯 - CháBēi (petit bol à thé)"
+        "id": "manontas45",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
-        "modification":"2022-05-17",
-        "création":"2022-05-17",
-        "catégorie":"manon-clouzeau",
-        "description":{
-            "en":"Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        "modification": "2022-05-17",
+        "création": "2022-05-17",
+        "catégorie": "manon-clouzeau",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix":15,
-        "dimension":{
-            "largeur":7,
-            "hauteur":3
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
         },
-        "poids":0.035,
-        "capacité":40,
-        "quantité_produite":1,
-        "photos":[
+        "poids": 0.035,
+        "capacité": 40,
+        "quantité_produite": 1,
+        "photos": [
             "manon_tasse_45-a.jpg",
             "manon_tasse_45-b.jpg",
             "manon_tasse_45-c.jpg"
         ]
     },
     {
-        "id":"manontas48",
-        "titre":{
-            "en":"茶杯 - CháBēi (small tea bowl)",
-            "fr":"茶杯 - CháBēi (petit bol à thé)"
+        "id": "manontas48",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
-        "modification":"2022-05-17",
-        "création":"2022-05-17",
-        "catégorie":"manon-clouzeau",
-        "description":{
-            "en":"Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        "modification": "2022-05-17",
+        "création": "2022-05-17",
+        "catégorie": "manon-clouzeau",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix":20,
-        "dimension":{
-            "largeur":7,
-            "hauteur":4
+        "prix": 20,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 4
         },
-        "poids":0.04,
-        "capacité":58,
-        "quantité_produite":1,
-        "photos":[
+        "poids": 0.04,
+        "capacité": 58,
+        "quantité_produite": 1,
+        "photos": [
             "manon_tasse_48-a.jpg",
             "manon_tasse_48-b.jpg",
             "manon_tasse_48-c.jpg"
         ]
     },
     {
-        "id":"manontas56",
-        "titre":{
-            "en":"茶杯 - CháBēi (small tea bowl)",
-            "fr":"茶杯 - CháBēi (petit bol à thé)"
+        "id": "manontas56",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
-        "modification":"2022-05-17",
-        "création":"2022-05-17",
-        "catégorie":"manon-clouzeau",
-        "description":{
-            "en":"Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        "modification": "2022-05-17",
+        "création": "2022-05-17",
+        "catégorie": "manon-clouzeau",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix":15,
-        "dimension":{
-            "largeur":6.5,
-            "hauteur":3.5
+        "prix": 15,
+        "dimension": {
+            "largeur": 6.5,
+            "hauteur": 3.5
         },
-        "poids":0.037,
-        "capacité":30,
-        "quantité_produite":1,
-        "photos":[
+        "poids": 0.037,
+        "capacité": 30,
+        "quantité_produite": 1,
+        "photos": [
             "manon_tasse_56-a.jpg",
             "manon_tasse_56-b.jpg",
             "manon_tasse_56-c.jpg"
         ]
     },
     {
-        "id":"manontas58",
-        "titre":{
-            "en":"茶杯 - CháBēi (small tea bowl)",
-            "fr":"茶杯 - CháBēi (petit bol à thé)"
+        "id": "manontas58",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
-        "modification":"2022-05-17",
-        "création":"2022-05-17",
-        "catégorie":"manon-clouzeau",
-        "description":{
-            "en":"Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        "modification": "2022-05-17",
+        "création": "2022-05-17",
+        "catégorie": "manon-clouzeau",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix":15,
-        "dimension":{
-            "largeur":5.8,
-            "hauteur":3.5
+        "prix": 15,
+        "dimension": {
+            "largeur": 5.8,
+            "hauteur": 3.5
         },
-        "poids":0.025,
-        "capacité":25,
-        "quantité_produite":1,
-        "photos":[
+        "poids": 0.025,
+        "capacité": 25,
+        "quantité_produite": 1,
+        "photos": [
             "manon_tasse_58-a.jpg",
             "manon_tasse_58-b.jpg",
             "manon_tasse_58-c.jpg"
         ]
     },
     {
-        "id":"manontas61",
-        "titre":{
-            "en":"茶杯 - CháBēi (small tea bowl)",
-            "fr":"茶杯 - CháBēi (petit bol à thé)"
+        "id": "manontas61",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
-        "modification":"2022-05-17",
-        "création":"2022-05-17",
-        "catégorie":"manon-clouzeau",
-        "description":{
-            "en":"Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr":"茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        "modification": "2022-05-17",
+        "création": "2022-05-17",
+        "catégorie": "manon-clouzeau",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix":15,
-        "dimension":{
-            "largeur":7,
-            "hauteur":3.5
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3.5
         },
-        "poids":0.039,
-        "capacité":40,
-        "quantité_produite":1,
-        "photos":[
+        "poids": 0.039,
+        "capacité": 40,
+        "quantité_produite": 1,
+        "photos": [
             "manon_tasse_61-a.jpg",
             "manon_tasse_61-b.jpg",
             "manon_tasse_61-c.jpg"
         ]
     },
     {
-        "id":"jesetgongfucha1",
-        "titre":{
-            "en":"Tea set",
-            "fr":"Set à thé"
+        "id": "jesetgongfucha1",
+        "titre": {
+            "en": "Tea set",
+            "fr": "Set à thé"
         },
-        "modification":"2021-02-21",
-        "création":"2022-02-21",
-        "catégorie":"je-le-potier",
-        "description":{
-            "en":"Gongfucha bowl set consisting of a drinking bowl (茶杯 - CháBēi) and a smelling bowl (聞香杯 - WénXiāngBēi).",
-            "fr":"Set de bols pour le gongfucha composé d'un bol à boire (茶杯 - CháBēi) et d'un bol à sentir (聞香杯 - WénXiāngBēi)."
+        "modification": "2021-02-21",
+        "création": "2022-02-21",
+        "catégorie": "je-le-potier",
+        "description": {
+            "en": "Gongfucha bowl set consisting of a drinking bowl (茶杯 - CháBēi) and a smelling bowl (聞香杯 - WénXiāngBēi).",
+            "fr": "Set de bols pour le gongfucha composé d'un bol à boire (茶杯 - CháBēi) et d'un bol à sentir (聞香杯 - WénXiāngBēi)."
         },
-        "prix":25,
-        "poids":0.072,
-        "capacité":20,
-        "quantité_produite":4,
-        "photos":[
+        "prix": 25,
+        "poids": 0.072,
+        "capacité": 20,
+        "quantité_produite": 4,
+        "photos": [
             "jerome_set-gongfucha_1-a.jpg",
             "jerome_set-gongfucha_1-b.jpg",
             "jerome_set-gongfucha_1-c.jpg"
         ]
     },
     {
-        "id":"jetheiere1",
-        "titre":{
-            "en":"Small glazed teapot",
-            "fr":"Petite théière émaillée"
+        "id": "jetheiere1",
+        "titre": {
+            "en": "Small glazed teapot",
+            "fr": "Petite théière émaillée"
         },
-        "modification":"2021-02-27",
-        "création":"2022-02-27",
-        "catégorie":"je-le-potier",
-        "description":{
-            "en":"Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
-            "fr":"Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
+        "modification": "2021-02-27",
+        "création": "2022-02-27",
+        "catégorie": "je-le-potier",
+        "description": {
+            "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
+            "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
         },
-        "prix":142,
-        "poids":0.12,
-        "capacité":80,
-        "quantité_produite":1,
-        "photos":[
+        "prix": 142,
+        "poids": 0.12,
+        "capacité": 80,
+        "quantité_produite": 1,
+        "photos": [
             "jerome_theiere_1-a.jpg",
             "jerome_theiere_1-b.jpg",
             "jerome_theiere_1-c.jpg",
@@ -509,23 +508,23 @@
         ]
     },
     {
-        "id":"jetheiere2",
-        "titre":{
-            "en":"Small teapot in raw clay",
-            "fr":"Petite théière en terre brute"
+        "id": "jetheiere2",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
         },
-        "modification":"2021-02-22",
-        "création":"2022-02-22",
-        "catégorie":"je-le-potier",
-        "description":{
-            "en":"Unique piece. Small teapot made from a very dense clay. This high quality stoneware is made in Germany. The porosity of this clay is 0,8%. The density of the clay limits the water temperature drop during the infusion. The pouring is fluid and fast.",
-            "fr":"Pièce unique. Petite théière fabriquée dans une argile très dense. Ce grès de grande qualité est réalisée en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide."
+        "modification": "2021-02-22",
+        "création": "2022-02-22",
+        "catégorie": "je-le-potier",
+        "description": {
+            "en": "Unique piece. Small teapot made from a very dense clay. This high quality stoneware is made in Germany. The porosity of this clay is 0,8%. The density of the clay limits the water temperature drop during the infusion. The pouring is fluid and fast.",
+            "fr": "Pièce unique. Petite théière fabriquée dans une argile très dense. Ce grès de grande qualité est réalisée en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide."
         },
-        "prix":132,
-        "poids":0.12,
-        "capacité":100,
-        "quantité_produite":1,
-        "photos":[
+        "prix": 132,
+        "poids": 0.12,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
             "jerome_theiere_2-a.jpg",
             "jerome_theiere_2-b.jpg",
             "jerome_theiere_2-c.jpg",
@@ -534,23 +533,23 @@
         ]
     },
     {
-        "id":"jetheiere3",
-        "titre":{
-            "en":"Small teapot in raw clay",
-            "fr":"Petite théière en terre brute"
+        "id": "jetheiere3",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
         },
-        "modification":"2021-02-22",
-        "création":"2022-02-22",
-        "catégorie":"je-le-potier",
-        "description":{
-            "en":"Unique piece. Small teapot made of Treigny stoneware, a soft natural clay. This teapot is not glazed and will acquire a unique patina over time. The pouring is fluid and fast.",
-            "fr":"Pièce unique. Petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide."
+        "modification": "2021-02-22",
+        "création": "2022-02-22",
+        "catégorie": "je-le-potier",
+        "description": {
+            "en": "Unique piece. Small teapot made of Treigny stoneware, a soft natural clay. This teapot is not glazed and will acquire a unique patina over time. The pouring is fluid and fast.",
+            "fr": "Pièce unique. Petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide."
         },
-        "prix":132,
-        "poids":0.13,
-        "capacité":100,
-        "quantité_produite":1,
-        "photos":[
+        "prix": 132,
+        "poids": 0.13,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
             "jerome_theiere_3-a.jpg",
             "jerome_theiere_3-b.jpg",
             "jerome_theiere_3-c.jpg",
@@ -560,23 +559,23 @@
         ]
     },
     {
-        "id":"jetheiere4",
-        "titre":{
-            "en":"Small glazed teapot",
-            "fr":"Petite théière émaillée"
+        "id": "jetheiere4",
+        "titre": {
+            "en": "Small glazed teapot",
+            "fr": "Petite théière émaillée"
         },
-        "modification":"2021-02-27",
-        "création":"2022-02-27",
-        "catégorie":"je-le-potier",
-        "description":{
-            "en":"Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
-            "fr":"Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
+        "modification": "2021-02-27",
+        "création": "2022-02-27",
+        "catégorie": "je-le-potier",
+        "description": {
+            "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
+            "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
         },
-        "prix":142,
-        "poids":0.12,
-        "capacité":80,
-        "quantité_produite":1,
-        "photos":[
+        "prix": 142,
+        "poids": 0.12,
+        "capacité": 80,
+        "quantité_produite": 1,
+        "photos": [
             "jerome_theiere_4-a.jpg",
             "jerome_theiere_4-b.jpg",
             "jerome_theiere_4-c.jpg",
@@ -585,47 +584,47 @@
         ]
     },
     {
-         "id": "melles-ceramiquega1",
-         "titre": {
-             "en": "蓋碗 - GàiWǎn",
-             "fr": "蓋碗 - GàiWǎn"
-         },
+        "id": "melles-ceramiquega1",
+        "titre": {
+            "en": "蓋碗 - GàiWǎn",
+            "fr": "蓋碗 - GàiWǎn"
+        },
         "modification": "2022-05-02",
         "création": "2022-05-02",
         "catégorie": "mademoiselles-ceramique",
         "description": {
-             "en": "White porcelain GàiWǎn, made in Montpellier.",
-             "fr": "GàiWǎn en porcelaine blanche. Fabriqué à Montpellier"
-         },
-         "prix": 60.00,
-         "poids": 0.215,
-         "capacité": 90,
-         "quantité_produite": 3,
-         "photos": [
-             "melles-ceramique_gaiwan_1-a.jpg",
-             "melles-ceramique_gaiwan_1-b.jpg",
-             "melles-ceramique_gaiwan_1-c.jpg",
-             "melles-ceramique_gaiwan_1-d.jpg"
-         ]
+            "en": "White porcelain GàiWǎn, made in Montpellier.",
+            "fr": "GàiWǎn en porcelaine blanche. Fabriqué à Montpellier"
+        },
+        "prix": 60.00,
+        "poids": 0.215,
+        "capacité": 90,
+        "quantité_produite": 3,
+        "photos": [
+            "melles-ceramique_gaiwan_1-a.jpg",
+            "melles-ceramique_gaiwan_1-b.jpg",
+            "melles-ceramique_gaiwan_1-c.jpg",
+            "melles-ceramique_gaiwan_1-d.jpg"
+        ]
     },
     {
-        "id":"melles-ceramiquetheiere1",
-        "titre":{
-            "en":"Small teapot in raw clay",
-            "fr":"Petite théière en terre brute"
+        "id": "melles-ceramiquetheiere1",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
         },
-        "modification":"2022-05-02",
-        "création":"2022-05-02",
-        "catégorie":"mademoiselles-ceramique",
-        "description":{
-            "en":"井蘭-JǐngLán teapot made of 紅泥 - HóngNí (red clay) from Yixing, turned by hand on a potter's wheel. Made in Montpellier. Unique piece",
-            "fr":"Théière 井蘭 - JǐngLán en 紅泥 - HóngNí (argile rouge) de Yixing, tournée à la main à Montpellier. Pièce unique."
+        "modification": "2022-05-02",
+        "création": "2022-05-02",
+        "catégorie": "mademoiselles-ceramique",
+        "description": {
+            "en": "井蘭-JǐngLán teapot made of 紅泥 - HóngNí (red clay) from Yixing, turned by hand on a potter's wheel. Made in Montpellier. Unique piece",
+            "fr": "Théière 井蘭 - JǐngLán en 紅泥 - HóngNí (argile rouge) de Yixing, tournée à la main à Montpellier. Pièce unique."
         },
-        "prix":200,
-        "poids":0.235,
-        "capacité":100,
-        "quantité_produite":1,
-        "photos":[
+        "prix": 200,
+        "poids": 0.235,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
             "melles-ceramique_theiere_1-a.jpg",
             "melles-ceramique_theiere_1-b.jpg",
             "melles-ceramique_theiere_1-c.jpg",
