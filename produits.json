@@ -374,6 +374,735 @@
         ]
     },
     {
+        "id": "perrinebol1",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_1-a.jpg",
+            "perrine_tasse_1-b.jpg",
+            "perrine_tasse_1-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol2",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_2-a.jpg",
+            "perrine_tasse_2-b.jpg",
+            "perrine_tasse_2-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol3",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_3-a.jpg",
+            "perrine_tasse_3-b.jpg",
+            "perrine_tasse_3-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol4",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_4-a.jpg",
+            "perrine_tasse_4-b.jpg",
+            "perrine_tasse_4-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol5",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_5-a.jpg",
+            "perrine_tasse_5-b.jpg",
+            "perrine_tasse_5-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol6",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_6-a.jpg",
+            "perrine_tasse_6-b.jpg",
+            "perrine_tasse_6-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol7",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_7-a.jpg",
+            "perrine_tasse_7-b.jpg",
+            "perrine_tasse_7-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol8",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_8-a.jpg",
+            "perrine_tasse_8-b.jpg",
+            "perrine_tasse_8-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol9",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_9-a.jpg",
+            "perrine_tasse_9-b.jpg",
+            "perrine_tasse_9-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol10",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_10-a.jpg",
+            "perrine_tasse_10-b.jpg",
+            "perrine_tasse_10-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol11",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_11-a.jpg",
+            "perrine_tasse_11-b.jpg",
+            "perrine_tasse_11-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol12",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_12-a.jpg",
+            "perrine_tasse_12-b.jpg",
+            "perrine_tasse_12-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol13",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_13-a.jpg",
+            "perrine_tasse_13-b.jpg",
+            "perrine_tasse_13-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol14",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_14-a.jpg",
+            "perrine_tasse_14-b.jpg",
+            "perrine_tasse_14-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol15",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_15-a.jpg",
+            "perrine_tasse_15-b.jpg",
+            "perrine_tasse_15-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol16",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_16-a.jpg",
+            "perrine_tasse_16-b.jpg",
+            "perrine_tasse_16-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol17",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_17-a.jpg",
+            "perrine_tasse_17-b.jpg",
+            "perrine_tasse_17-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol18",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_18-a.jpg",
+            "perrine_tasse_18-b.jpg",
+            "perrine_tasse_18-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol19",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_19-a.jpg",
+            "perrine_tasse_19-b.jpg",
+            "perrine_tasse_19-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol20",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_20-a.jpg",
+            "perrine_tasse_20-b.jpg",
+            "perrine_tasse_20-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol21",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_21-a.jpg",
+            "perrine_tasse_21-b.jpg",
+            "perrine_tasse_21-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol22",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_22-a.jpg",
+            "perrine_tasse_22-b.jpg",
+            "perrine_tasse_22-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol23",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_23-a.jpg",
+            "perrine_tasse_23-b.jpg",
+            "perrine_tasse_23-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol24",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_24-a.jpg",
+            "perrine_tasse_24-b.jpg",
+            "perrine_tasse_24-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol25",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_25-a.jpg",
+            "perrine_tasse_25-b.jpg",
+            "perrine_tasse_25-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol26",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_26-a.jpg",
+            "perrine_tasse_26-b.jpg",
+            "perrine_tasse_26-c.jpg"
+        ]
+    },
+    {
+        "id": "perrinebol27",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-05-17",
+        "création": "2023-05-17",
+        "catégorie": "perrine-pottiez",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": {
+            "largeur": 7,
+            "hauteur": 3
+        },
+        "poids": 0.035,
+        "capacité": 50,
+        "quantité_produite": 1,
+        "photos": [
+            "perrine_tasse_27-a.jpg",
+            "perrine_tasse_27-b.jpg",
+            "perrine_tasse_27-c.jpg"
+        ]
+    },
+    {
         "id": "manontas12",
         "titre": {
             "en": "茶杯 - CháBēi (small tea bowl)",

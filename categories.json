@@ -64,6 +64,17 @@
             "en": "Jérôme Roussel dedicates his work to the field of tea. He explores it through daily practice, so that the experience is transformed into concrete and useful qualities for the pieces. He handcrafts all styles of teapots, but also kettles, braziers, tea jars, tea bowls… with a sense of detail and the pleasure of precision, so that you can fully enjoy your “tea moments”."
         }
     },
+    "perrine-pottiez": {
+        "label": "perrine-pottiez",
+        "titre": {
+            "fr": "Perrine Pottiez",
+            "en": "Perrine Pottiez"
+        },
+        "description": {
+            "fr": "Perrine récolte ces argiles dans la nature et les prépare en pâte et en décantations. De ces balles d'argiles pincées viennent des formes, puis les courbes harmonieuses qui les animent.",
+            "en": "Perrine collects these clays in nature and prepares them in paste and decantations. From these pinched clay balls come shapes, then the harmonious curves that animate them."
+        }
+    },
     "mademoiselles-ceramique": {
         "label": "mademoiselles-ceramique",
         "titre": {
