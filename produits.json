@@ -256,6 +256,84 @@
             "PuEr_Bingdao-Ba-Wai_1-g.jpg"
         ]
     },
+{
+        "id": "hong1",
+        "titre": {
+            "en": "蜜香红茶 - MìXiāng HóngChá",
+            "fr": "蜜香红茶 - MìXiāng HóngChá"，
+        },
+        "modification": "2023-05-22",
+        "création": "2023-05-22",
+        "catégorie": "cha",
+        "description": {
+            "en": "",
+            "fr": ""
+        },
+        "prix": 15,
+        "poids": 0.0375,
+        "quantité_produite": 7,
+        "altitude": "",
+        "producteur": "Madame 张 - Zhāng",
+        "récolte": "été 2022",
+        "type": "rouge - 红茶 - HóngChá",
+        "village": "三峡 - SānXiá",
+        "lieu": "台湾 - TáiWān",
+        "photos": [
+            "",
+        ]
+    },
+{
+        "id": "wulong2",
+        "titre": {
+            "en": "包种茶 - Bāo Zhǒng Chá",
+            "fr": "包种茶 - Bāo Zhǒng Chá"，
+        },
+        "modification": "2023-05-22",
+        "création": "2023-05-22",
+        "catégorie": "cha",
+        "description": {
+            "en": "",
+            "fr": ""
+        },
+        "prix": 15,
+        "poids": 0.0375,
+        "quantité_produite": 7,
+        "altitude": "",
+        "producteur": "Monsieur 郑 - Zhèng",
+        "récolte": "automne 2021",
+        "type": "bleu-vert - 青茶 - QīngChá",
+        "village": "三峡 - SānXiá",
+        "lieu": "台湾 - TáiWān",
+        "photos": [
+            "",
+        ]
+    },
+{
+        "id": "blanc1",
+        "titre": {
+            "en": "白茶 - BáiChá",
+            "fr": "白茶 - BáiChá"，
+        },
+        "modification": "2023-05-22",
+        "création": "2023-05-22",
+        "catégorie": "cha",
+        "description": {
+            "en": "",
+            "fr": ""
+        },
+        "prix": 15,
+        "poids": 0.0375,
+        "quantité_produite": 7,
+        "altitude": "",
+        "producteur": "Monsieur 李 - Lǐ",
+        "récolte": "automne 2021",
+        "type": "thé blanc - 白茶 - BáiChá",
+        "village": "三峡 - SānXiá",
+        "lieu": "台湾 - TáiWān",
+        "photos": [
+            "",
+        ]
+    },
     {
         "id": "ga2",
         "titre": {
