@@ -260,7 +260,7 @@
         "id": "hong1",
         "titre": {
             "en": "蜜香红茶 - MìXiāng HóngChá",
-            "fr": "蜜香红茶 - MìXiāng HóngChá"，
+            "fr": "蜜香红茶 - MìXiāng HóngChá"
         },
         "modification": "2023-05-22",
         "création": "2023-05-22",
@@ -279,14 +279,14 @@
         "village": "三峡 - SānXiá",
         "lieu": "台湾 - TáiWān",
         "photos": [
-            "",
+            "HongCha_MiXiang_1-a.jpg",
         ]
     },
 {
         "id": "wulong2",
         "titre": {
             "en": "包种茶 - Bāo Zhǒng Chá",
-            "fr": "包种茶 - Bāo Zhǒng Chá"，
+            "fr": "包种茶 - Bāo Zhǒng Chá"
         },
         "modification": "2023-05-22",
         "création": "2023-05-22",
@@ -305,14 +305,14 @@
         "village": "三峡 - SānXiá",
         "lieu": "台湾 - TáiWān",
         "photos": [
-            "",
+            "QuingCha_BaoZhong_1-a.jpg",
         ]
     },
 {
         "id": "blanc1",
         "titre": {
             "en": "白茶 - BáiChá",
-            "fr": "白茶 - BáiChá"，
+            "fr": "白茶 - BáiChá"
         },
         "modification": "2023-05-22",
         "création": "2023-05-22",
@@ -331,7 +331,7 @@
         "village": "三峡 - SānXiá",
         "lieu": "台湾 - TáiWān",
         "photos": [
-            "",
+            "BaiCha-LiGuanKuan_1-a.jpg",
         ]
     },
     {
