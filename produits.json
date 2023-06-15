@@ -75,6 +75,63 @@
         ]
     },
     {
+        "id": "billet5",
+        "titre": {
+            "en": "Culinary Approach to Chinese Thought - Friday",
+            "fr": "Approche de la pensée chinoise par la voie culinaire - vendredi"
+        },
+        "modification": "2023-06-15",
+        "création": "2022-06-15",
+        "catégorie": "festival",
+        "description": {
+            "en": "This ticket allows you to book your taste experience at Yuanyuan of Tampopo on Friday, June 23, 2023.",
+            "fr": "Ce billet vous permet de réserver votre expérience gustative auprès de Yuanyuan de Tampopo le vendredi 23 juin 2023."
+        },
+        "prix": 18.00,
+        "quantité_produite": 100,
+        "photos": [
+            "ticket-gongfucha-voie.jpg"
+        ]
+    },
+    {
+        "id": "billet6",
+        "titre": {
+            "en": "Culinary Approach to Chinese Thought - Saturday",
+            "fr": "Approche de la pensée chinoise par la voie culinaire - samedi"
+        },
+        "modification": "2023-06-15",
+        "création": "2022-06-15",
+        "catégorie": "festival",
+        "description": {
+            "en": "This ticket allows you to book your taste experience at Yuanyuan of Tampopo on Saturday, June 24, 2023.",
+            "fr": "Ce billet vous permet de réserver votre expérience gustative auprès de Yuanyuan de Tampopo le samedi 24 juin 2023."
+        },
+        "prix": 18.00,
+        "quantité_produite": 100,
+        "photos": [
+            "ticket-gongfucha-voie.jpg"
+        ]
+    },
+    {
+        "id": "billet7",
+        "titre": {
+            "en": "Culinary Approach to Chinese Thought - Sunday",
+            "fr": "Approche de la pensée chinoise par la voie culinaire - dimanchr"
+        },
+        "modification": "2023-06-15",
+        "création": "2022-06-15",
+        "catégorie": "festival",
+        "description": {
+            "en": "This ticket allows you to book your taste experience at Yuanyuan of Tampopo on Sunday, June 25, 2023.",
+            "fr": "Ce billet vous permet de réserver votre expérience gustative auprès de Yuanyuan de Tampopo le dimanche 25 juin 2023."
+        },
+        "prix": 18.00,
+        "quantité_produite": 100,
+        "photos": [
+            "ticket-gongfucha-voie.jpg"
+        ]
+    },
+    {
         "id": "affiches1",
         "titre": {
             "en": "Two posters of the GongFuCha festival",
