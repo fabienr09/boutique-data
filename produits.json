@@ -1,4 +1,99 @@
 [{
+        "id": "Don5",
+        "titre": {
+            "en": "5 € donation",
+            "fr": "Don de 5 €"
+        },
+        "modification": "2022-08-11",
+        "création": "2022-08-12",
+        "catégorie": "dons",
+        "description": {
+            "en": "Donate 5 € and get a huge thank you from us.",
+            "fr": "Faire un don de 5 €."
+        },
+        "prix": 5.00,
+        "quantité_produite": 30,
+        "photos": [
+            "ticket-gongfucha.jpg"
+        ]
+    },
+    {
+        "id": "Don10",
+        "titre": {
+            "en": "10 € donation",
+            "fr": "Don de 10 €"
+        },
+        "modification": "2022-08-11",
+        "création": "2022-08-12",
+        "catégorie": "dons",
+        "description": {
+            "en": "Donate 15 € and receive the festival poster.",
+            "fr": "Faire un don de 15 € et reçevoir l'affiche du festival."
+        },
+        "prix": 15.00,
+        "quantité_produite": 30,
+        "photos": [
+            "ticket-gongfucha.jpg"
+        ]
+    },
+    {
+        "id": "Don50",
+        "titre": {
+            "en": "50 € donation",
+            "fr": "Don de 50 €"
+        },
+        "modification": "2022-08-11",
+        "création": "2022-08-12",
+        "catégorie": "dons",
+        "description": {
+            "en": "Donate 50 € and receive a tea bowl made by Manon Clouzeau and the festival poster.",
+            "fr": "Faire un don de 50 € et recevoir un bol à thé de Manon Clouzeau et l'affiche du festival."
+        },
+        "prix": 50.00,
+        "quantité_produite": 30,
+        "photos": [
+            "ticket-gongfucha.jpg"
+        ]
+    },
+    {
+        "id": "Don100",
+        "titre": {
+            "en": "100 € donation",
+            "fr": "Don de 100 €"
+        },
+        "modification": "2022-08-11",
+        "création": "2022-08-12",
+        "catégorie": "dons",
+        "description": {
+            "en": "Donate 100 € and receive a tasting kit and the festival poster.",
+            "fr": "Faire un don de 100 € et recevoir un kit de dégustation et l'affiche du festival."
+        },
+        "prix": 100.00,
+        "quantité_produite": 30,
+        "photos": [
+            "ticket-gongfucha.jpg"
+        ]
+    },
+    {
+        "id": "Don500",
+        "titre": {
+            "en": "500 € donation",
+            "fr": "Don de 500 €"
+        },
+        "modification": "2022-08-11",
+        "création": "2022-08-12",
+        "catégorie": "dons",
+        "description": {
+            "en": "Donate 500 € and exchange with us for presents.",
+            "fr": "Faire un don de 500 € et échanger avec nous pour imaginer ensemble une contre-partie."
+        },
+        "prix": 500.00,
+        "quantité_produite": 30,
+        "photos": [
+            "ticket-gongfucha.jpg"
+        ]
+    },
+    {
         "id": "billet5",
         "titre": {
             "en": "Yuanyuan's workshop ticket - Friday",
@@ -6,7 +101,7 @@
         },
         "modification": "2023-06-15",
         "création": "2022-06-15",
-        "catégorie": "festival",
+        "catégorie": "ateliers",
         "description": {
             "en": "Culinary Approach to Chinese Thought - This ticket allows you to book your taste experience at Yuanyuan of Tampopo on Friday, June 23, 2023.",
             "fr": "Approche de la pensée chinoise par la voie culinaire - Ce billet vous permet de réserver votre expérience gustative auprès de Yuanyuan de Tampopo le vendredi 23 juin 2023."
@@ -25,7 +120,7 @@
         },
         "modification": "2023-06-15",
         "création": "2022-06-15",
-        "catégorie": "festival",
+        "catégorie": "ateliers",
         "description": {
             "en": "Culinary Approach to Chinese Thought - This ticket allows you to book your taste experience at Yuanyuan of Tampopo on Saturday, June 24, 2023.",
             "fr": "Approche de la pensée chinoise par la voie culinaire - Ce billet vous permet de réserver votre expérience gustative auprès de Yuanyuan de Tampopo le samedi 24 juin 2023."
@@ -44,7 +139,7 @@
         },
         "modification": "2023-06-15",
         "création": "2022-06-15",
-        "catégorie": "festival",
+        "catégorie": "ateliers",
         "description": {
             "en": "Culinary Approach to Chinese Thought - This ticket allows you to book your taste experience at Yuanyuan of Tampopo on Sunday, June 25, 2023.",
             "fr": "Approche de la pensée chinoise par la voie culinaire - Ce billet vous permet de réserver votre expérience gustative auprès de Yuanyuan de Tampopo le dimanche 25 juin 2023."
@@ -63,7 +158,7 @@
         },
         "modification": "2023-05-08",
         "création": "2023-05-08",
-        "catégorie": "festival",
+        "catégorie": "billets",
         "description": {
             "en": "This ticket gives you access for the thursday to the bamboo park of Lapenne in Ariège - Pyrénées. You can enjoy the entire program offered by the festival - https://gongfucha.brutdethé.fr/programme. The GongFuCha poster will be given to you at the entrance.",
             "fr": "Ce billet vous donne accès pour la journée du vendredi au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival - https://gongfucha.brutdethé.fr/programme. L'affiche GongFuCha vous sera remise à l'entrée."
@@ -82,7 +177,7 @@
         },
         "modification": "2023-05-08",
         "création": "2023-05-08",
-        "catégorie": "festival",
+        "catégorie": "billets",
         "description": {
             "en": "This ticket gives you access for the saturday to the bamboo park of Lapenne in Ariège - Pyrénées. You can enjoy the entire program offered by the festival - https://gongfucha.brutdethé.fr/programme. The GongFuCha poster will be given to you at the entrance.",
             "fr": "Ce billet vous donne accès pour la journée du samedi au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival - https://gongfucha.brutdethé.fr/programme. L'affiche GongFuCha vous sera remise à l'entrée."
@@ -101,7 +196,7 @@
         },
         "modification": "2023-05-08",
         "création": "2023-05-08",
-        "catégorie": "festival",
+        "catégorie": "billets",
         "description": {
             "en": "This ticket gives you access for the sunday to the bamboo park of Lapenne in Ariège - Pyrénées. You can enjoy the entire program offered by the festival - https://gongfucha.brutdethé.fr/programme. The GongFuCha poster will be given to you at the entrance.",
             "fr": "Ce billet vous donne accès pour la journée du dimanche au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival - https://gongfucha.brutdethé.fr/programme. L'affiche GongFuCha vous sera remise à l'entrée."
@@ -120,7 +215,7 @@
         },
         "modification": "2022-08-08",
         "création": "2022-08-08",
-        "catégorie": "festival",
+        "catégorie": "billets",
         "description": {
             "en": "This ticket gives you access for the three days to the bamboo park of Lapenne in Ariège - Pyrénées. You can enjoy the entire - https//gongfucha.brutdethé.fr/programme program offered by the festival</a>. The GongFuCha poster will be given to you at the entrance and you can choose a beautiful tea cup.",
             "fr": "Ce billet vous donne accès pour les trois journées au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival - https://gongfucha.brutdethé.fr/programme. L'affiche GongFuCha vous sera remise à l'entrée et vous pourrez choisir un bol à thé en céramique."
@@ -139,7 +234,7 @@
         },
         "modification": "2023-05-18",
         "création": "2023-05-18",
-        "catégorie": "festival",
+        "catégorie": "billets",
         "description": {
             "en": "The two posters of the festival are now available. They are the work of Benhito: https://www.facebook.com/benhito.",
             "fr": "Les deux affiches du festival sont désormais disponibles. Elles sont l'oeuvre de Benhito : https://www.facebook.com/benhito."

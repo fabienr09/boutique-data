@@ -1,13 +1,35 @@
 {
-    "festival": {
-        "label": "festival",
+    "billets": {
+        "label": "billets",
         "titre": {
-            "fr": "Festival",
-            "en": "Festival"
+            "fr": "Billets GongFuCha",
+            "en": "Billets GongFuCha"
         },
         "description": {
             "fr": "Du 23 au 25 juin 2023 - Le festival 工夫茶 - GongFuCha propose une balade poétique et bucolique ponctuée d’une dizaine d’expériences autour du monde du Thé, qui vous invitent à des dégustations, des rencontres et des conférences présentées par des céramistes, des cultivateurs et d’autres artisans passionnés de Thé.",
             "en": "From 23 to 25 June 2023 - The 工夫茶 - GongFuCha festival offers a poetic and bucolic stroll punctuated by a dozen experiences around the world of tea, which invite you to tastings, meetings and conferences presented by ceramists, growers and other artisans. Tea enthusiasts."
+        }
+    },
+    "ateliers": {
+        "label": "ateliers",
+        "titre": {
+            "fr": "Ateliers GongFuCha",
+            "en": "Ateliers GongFuCha"
+        },
+        "description": {
+            "fr": "Du 23 au 25 juin 2023 - pour le festival 工夫茶 - GongFuCha Yuanyuan propose une expérience culinaire.",
+            "en": "From 23 to 25 June 2023 - for the 工夫茶 - GongFuCha festival Yuanyuan offers a gastronomic experience."
+        }
+    },
+    "dons": {
+        "label": "dons",
+        "titre": {
+            "fr": "Dons",
+            "en": "Dons"
+        },
+        "description": {
+            "fr": "Pour aider à financer le festival 工夫茶",
+            "en": "Help us fund the 工夫茶 - GongFuCha festival"
         }
     },
     "cha": {
