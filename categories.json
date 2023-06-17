@@ -32,6 +32,17 @@
             "en": "Help us fund the 工夫茶 - GongFuCha festival"
         }
     },
+    "formations": {
+        "label": "formations",
+        "titre": {
+            "fr": "Formations",
+            "en": "Formations"
+        },
+        "description": {
+            "fr": "Formation autour de la culture chinoise du Thé",
+            "en": "Training around Chinese tea culture"
+        }
+    },
     "cha": {
         "label": "cha",
         "titre": {
