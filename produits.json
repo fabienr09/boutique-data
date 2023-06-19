@@ -8,13 +8,15 @@
         "création": "2022-08-12",
         "catégorie": "formations",
         "description": {
-            "en": "Training on ** Chinese culture tea ** by ** YaLin ** from ** Tuesday June 27 to Sunday July 2, 2023 ** in Ariège in Soulan.",
-            "fr": "Formation sur le **Thé de culture chinoise** par **YaLin** du **mardi 27 juin au dimanche 2 juillet 2023** en Ariège à Soulan."
+            "en": "Training on ** Chinese culture tea ** by ** YaLin ** from ** Tuesday June 27 to Sunday July 2, 2023 ** in Ariège in Soulan. Informations : http://formation.brutdethé.fr",
+            "fr": "Formation sur le **Thé de culture chinoise** par **YaLin** du **mardi 27 juin au dimanche 2 juillet 2023** en Ariège à Soulan. Informations : http://formation.brutdethé.fr"
         },
+
         "prix": 300.00,
         "quantité_produite": 8,
         "photos": [
-            "formation-yalin.jpg"
+            "formation-yalin.jpg",
+            "formation-yalin_1.jpg"
         ]
     },
     {
