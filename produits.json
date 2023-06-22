@@ -362,7 +362,7 @@
         },
         "prix": 18,
         "poids": 0.025,
-        "quantité_produite": 7,
+        "quantité_produite": 0,
         "altitude": 1000,
         "producteur": "Madame 螺 - Luó",
         "type": "vert - 綠茶 - LǜChá",
@@ -396,7 +396,7 @@
         "poids": 0.025,
         "millésime": "avril 2020",
         "altitude": 980,
-        "quantité_produite": 8,
+        "quantité_produite": 2,
         "producteur": "inconnu",
         "type": "bleu-vert - 青茶 - QīngChá",
         "fiche": "FengHuangDanCong",
@@ -1471,7 +1471,7 @@
         },
         "poids": 0.04,
         "capacité": 58,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "manon_tasse_48-a.jpg",
             "manon_tasse_48-b.jpg",
@@ -1498,7 +1498,7 @@
         },
         "poids": 0.037,
         "capacité": 30,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "manon_tasse_56-a.jpg",
             "manon_tasse_56-b.jpg",
@@ -1525,7 +1525,7 @@
         },
         "poids": 0.025,
         "capacité": 25,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "manon_tasse_58-a.jpg",
             "manon_tasse_58-b.jpg",
@@ -1552,7 +1552,7 @@
         },
         "poids": 0.039,
         "capacité": 40,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "manon_tasse_61-a.jpg",
             "manon_tasse_61-b.jpg",
@@ -1598,7 +1598,7 @@
         "prix": 55.00,
         "poids": 0.085,
         "capacité": 72,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "manon_gaiwan_16-a.jpg",
             "manon_gaiwan_16-b.jpg",
