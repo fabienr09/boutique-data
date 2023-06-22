@@ -409,32 +409,6 @@
         ]
     },
     {
-        "id": "puer2",
-        "titre": {
-            "en": "茶化石 - CháHuàShí - 5.29 oz",
-            "fr": "茶化石 - CháHuàShí - 150 g"
-        },
-        "modification": "2021-09-15",
-        "création": "2021-06-06",
-        "catégorie": "cha",
-        "description": {
-            "en": "This 茶化石 - CháHuàShí is the only fossil tea of the brand, marking the originality from other cooked Pǔ'ěr. This very rare tea is worked to obtain a shape of small pebbles, which do not reveal the leaves and buds during infusion. Each numbered box comes with a certificate of authenticity.",
-            "fr": "Ce 茶化石 - CháHuàShí est le seul thé fossile de la marque, marquant l’originalité d’avec les autres Pǔ'ěr cuit. Ce thé très rare est travaillé afin d'obtenir une forme de petits cailloux, qui ne révèlent pas les feuilles et bourgeons à l’infusion. Chaque boite numérotée est livrée avec un certificat d'authenticité."
-        },
-        "prix": 100,
-        "poids": 0.15,
-        "quantité_produite": 2,
-        "altitude": 560,
-        "producteur": "龍園號 - LóngYuánHào",
-        "province": "西雙版納州 - XīShuāngBǎnNàZhōu",
-        "type": "Pǔ'ěr cuit - 熟普洱 - Shú Pǔ'ěr",
-        "photos": [
-            "PuEr_ChaHuaShi_1-a.jpg",
-            "PuEr_ChaHuaShi_1-b.jpg",
-            "PuEr_ChaHuaShi_1-c.jpg"
-        ]
-    },
-    {
         "id": "hong1",
         "titre": {
             "en": "蜜香红茶 - MìXiāng HóngChá",
