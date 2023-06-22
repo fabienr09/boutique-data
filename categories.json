@@ -21,15 +21,15 @@
             "en": "From 23 to 25 June 2023 - for the 工夫茶 - GongFuCha festival Yuanyuan offers a gastronomic experience."
         }
     },
-     "off": {
-        "label": "off",
+     "repas": {
+        "label": "repas",
         "titre": {
-            "fr": "GongFuCha Off",
-            "en": "GongFuCha Off"
+            "fr": "Repas GongFuCha",
+            "en": "GongFuCha meal"
         },
         "description": {
-            "fr": "工夫茶 - GongFuCha OFF, une no-nocture le 24 juin 2023 à partir de 19h.",
-            "en": "工夫茶 - GongFuCha OFF, a no-nocturne on June 24, 2023 from 7 p.m."
+            "fr": "Il est possible de réserver un repas pour la no-nocture du festival 工夫茶 - GongFuCha - le 24 juin 2023 à partir de 19h.",
+            "en": "It is possible to book a meal for the no-night of the festival 工夫茶 - GongFuCha - June 24, 2023 from 7 p.m."
         }
     },
     "dons": {
