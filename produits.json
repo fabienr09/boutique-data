@@ -1,12 +1,12 @@
 [{
         "id": "billet8",
         "titre": {
-            "en": "GongFuCha Off Ticket - Saturday evening",
-            "fr": "Billet GongFuCha Off - samedi soir"
+            "en": "GongFuCha meal - Saturday evening",
+            "fr": "Repas GongFuCha - samedi soir"
         },
         "modification": "2023-06-22",
         "création": "2022-06-22",
-        "catégorie": "off",
+        "catégorie": "repas",
         "description": {
             "en": "This ticket allows you to book a meal for the no-nocturne on Saturday evening",
             "fr": "Ce billet vous permet de réserver un repas pour la no-nocturne de samedi soir"
