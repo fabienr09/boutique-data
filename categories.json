@@ -1,26 +1,4 @@
 {
-    "dons": {
-        "label": "dons",
-        "titre": {
-            "fr": "Dons",
-            "en": "Dons"
-        },
-        "description": {
-            "fr": "Pour aider à financer le festival 工夫茶",
-            "en": "Help us fund the 工夫茶 - GongFuCha festival"
-        }
-    },
-    "formations": {
-        "label": "formations",
-        "titre": {
-            "fr": "Formations",
-            "en": "Formations"
-        },
-        "description": {
-            "fr": "Formation autour de la culture chinoise du Thé",
-            "en": "Training around Chinese tea culture"
-        }
-    },
     "cha": {
         "label": "cha",
         "titre": {
@@ -107,6 +85,28 @@
         "description": {
             "fr": "Benhito est affichiste et illustrateur. Son univers de prédilection est le rock, c'est un coloriste hors-pair et un visionnaire inspiré. https://www.facebook.com/benhito.",
             "en": "Benhito is a poster artist and illustrator. His favourite universe is rock, he is an outstanding colourist and an inspired visionary. https://www.facebook.com/benhito."
+        }
+    },
+    "dons": {
+        "label": "dons",
+        "titre": {
+            "fr": "Dons",
+            "en": "Dons"
+        },
+        "description": {
+            "fr": "Pour aider à financer le festival 工夫茶",
+            "en": "Help us fund the 工夫茶 - GongFuCha festival"
+        }
+    },
+    "formations": {
+        "label": "formations",
+        "titre": {
+            "fr": "Formations",
+            "en": "Formations"
+        },
+        "description": {
+            "fr": "Formation autour de la culture chinoise du Thé",
+            "en": "Training around Chinese tea culture"
         }
     }
 }
