@@ -1,37 +1,4 @@
 {
-    "billets": {
-        "label": "billets",
-        "titre": {
-            "fr": "Billets GongFuCha",
-            "en": "Billets GongFuCha"
-        },
-        "description": {
-            "fr": "Du 23 au 25 juin 2023 - Le festival 工夫茶 - GongFuCha propose une balade poétique et bucolique ponctuée d’une dizaine d’expériences autour du monde du Thé, qui vous invitent à des dégustations, des rencontres et des conférences présentées par des céramistes, des cultivateurs et d’autres artisans passionnés de Thé.",
-            "en": "From 23 to 25 June 2023 - The 工夫茶 - GongFuCha festival offers a poetic and bucolic stroll punctuated by a dozen experiences around the world of tea, which invite you to tastings, meetings and conferences presented by ceramists, growers and other artisans. Tea enthusiasts."
-        }
-    },
-    "ateliers": {
-        "label": "ateliers",
-        "titre": {
-            "fr": "Ateliers GongFuCha",
-            "en": "Ateliers GongFuCha"
-        },
-        "description": {
-            "fr": "Du 23 au 25 juin 2023 - pour le festival 工夫茶 - GongFuCha Yuanyuan propose une expérience culinaire.",
-            "en": "From 23 to 25 June 2023 - for the 工夫茶 - GongFuCha festival Yuanyuan offers a gastronomic experience."
-        }
-    },
-     "repas": {
-        "label": "repas",
-        "titre": {
-            "fr": "Repas GongFuCha",
-            "en": "GongFuCha meal"
-        },
-        "description": {
-            "fr": "Il est possible de réserver un repas pour la no-nocture du festival 工夫茶 - GongFuCha - le 24 juin 2023 à partir de 19h.",
-            "en": "It is possible to book a meal for the no-night of the festival 工夫茶 - GongFuCha - June 24, 2023 from 7 p.m."
-        }
-    },
     "dons": {
         "label": "dons",
         "titre": {
