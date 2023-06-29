@@ -508,7 +508,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -535,7 +535,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -562,7 +562,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -589,7 +589,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -616,7 +616,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -628,33 +628,6 @@
             "perrine_tasse_5-a.jpg",
             "perrine_tasse_5-b.jpg",
             "perrine_tasse_5-c.jpg"
-        ]
-    },
-    {
-        "id": "perrinebol6",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 25,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
-        "poids": 0.025,
-        "capacité": 30,
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_6-a.jpg",
-            "perrine_tasse_6-b.jpg",
-            "perrine_tasse_6-c.jpg"
         ]
     },
     {
@@ -670,7 +643,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -697,7 +670,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -709,33 +682,6 @@
             "perrine_tasse_8-a.jpg",
             "perrine_tasse_8-b.jpg",
             "perrine_tasse_8-c.jpg"
-        ]
-    },
-    {
-        "id": "perrinebol9",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 25,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
-        "poids": 0.025,
-        "capacité": 30,
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_9-a.jpg",
-            "perrine_tasse_9-b.jpg",
-            "perrine_tasse_9-c.jpg"
         ]
     },
     {
@@ -751,7 +697,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -778,7 +724,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -805,7 +751,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -832,7 +778,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -859,7 +805,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -886,7 +832,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -913,7 +859,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -940,7 +886,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -967,7 +913,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -994,7 +940,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -1021,7 +967,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -1048,7 +994,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -1075,7 +1021,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -1102,7 +1048,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -1129,7 +1075,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -1156,7 +1102,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -1183,7 +1129,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -1210,7 +1156,7 @@
             "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
-        "prix": 25,
+        "prix": 20,
         "dimension": {
             "largeur": 7,
             "hauteur": 3
@@ -1380,29 +1326,6 @@
             "manon_verseuse-6-a.jpg",
             "manon_verseuse_6-b.jpg",
             "manon_verseuse_6-c.jpg"
-        ]
-    },
-    {
-        "id": "manonga16",
-        "titre": {
-            "en": "蓋碗 - GàiWǎn",
-            "fr": "蓋碗 - GàiWǎn"
-        },
-        "modification": "2023-04-12",
-        "création": "2023-04-12",
-        "catégorie": "manon-clouzeau",
-        "description": {
-            "en": "Glazed GàiWǎn. Unique piece.",
-            "fr": "GàiWǎn émaillé. Pièce unique."
-        },
-        "prix": 55.00,
-        "poids": 0.085,
-        "capacité": 72,
-        "quantité_produite": 0,
-        "photos": [
-            "manon_gaiwan_16-a.jpg",
-            "manon_gaiwan_16-b.jpg",
-            "manon_gaiwan_16-c.jpg"
         ]
     },
     {
