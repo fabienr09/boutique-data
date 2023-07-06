@@ -1139,29 +1139,6 @@
         ]
     },
     {
-        "id": "jesetgongfucha1",
-        "titre": {
-            "en": "Tea set",
-            "fr": "Set à thé"
-        },
-        "modification": "2021-02-21",
-        "création": "2022-02-21",
-        "catégorie": "je-le-potier",
-        "description": {
-            "en": "Gongfucha bowl set consisting of a drinking bowl (茶杯 - CháBēi) and a smelling bowl (聞香杯 - WénXiāngBēi).",
-            "fr": "Set de bols pour le gongfucha composé d'un bol à boire (茶杯 - CháBēi) et d'un bol à sentir (聞香杯 - WénXiāngBēi)."
-        },
-        "prix": 25,
-        "poids": 0.072,
-        "capacité": 20,
-        "quantité_produite": 4,
-        "photos": [
-            "jerome_set-gongfucha_1-a.jpg",
-            "jerome_set-gongfucha_1-b.jpg",
-            "jerome_set-gongfucha_1-c.jpg"
-        ]
-    },
-    {
         "id": "jetheiere1",
         "titre": {
             "en": "Small glazed teapot",
