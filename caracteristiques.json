@@ -1,4 +1,18 @@
 [{
+        "name": "dimension",
+        "label": {
+            "fr": "Dimension",
+            "en": "Size"
+        }
+    },
+    {
+        "name": "capacité",
+        "label": {
+            "en": "Capacity",
+            "fr": "Capacité"
+        }
+    },
+    {
         "name": "producteur",
         "label": {
             "fr": "Producteur",
@@ -17,13 +31,6 @@
         "label": {
             "fr": "Altitude",
             "en": "Elevation"
-        }
-    },
-    {
-        "name": "capacité",
-        "label": {
-            "en": "Capacity",
-            "fr": "Capacité"
         }
     },
     {
