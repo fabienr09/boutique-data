@@ -1,12 +1,26 @@
 [{
-    "name": "poids",
-    "type": "weight",
-    "label": {
-        "fr": "Poids",
-        "en": "Weight"
+        "name": "poids",
+        "label": {
+            "fr": "Poids",
+            "en": "Weight"
+        },
+        "unit": {
+            "fr": "g",
+            "en": "oz"
+        }
     },
-    "unit": {
-        "fr": "g",
-        "en": "oz"
+    {
+        "name": "producteur",
+        "label": {
+            "fr": "Producteur",
+            "en": "Producer"
+        }
+    },
+    {
+        "name": "village",
+        "label": {
+            "fr": "Village",
+            "en": "Village"
+        }
     }
-}]
+]
