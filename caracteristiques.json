@@ -1,0 +1,12 @@
+[{
+    "name": "poids",
+    "type": "weight",
+    "label": {
+        "fr": "Poids",
+        "en": "Weight"
+    },
+    "unit": {
+        "fr": "g",
+        "en": "oz"
+    }
+}]
