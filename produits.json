@@ -174,7 +174,10 @@
             "en": "Mrs 张 - Zhāng"
         },
         "récolte": "printemps 2023",
-        "type": "rouge - 红茶 - HóngChá",
+        "type": {
+            "fr": "rouge - 红茶 - HóngChá",
+            "en": "red - 红茶 - HóngChá"
+        },
         "village": "三峡 - SānXiá",
         "lieu": "台湾 - TáiWān",
         "photos": [
