@@ -1,15 +1,4 @@
 [{
-        "name": "poids",
-        "label": {
-            "fr": "Poids",
-            "en": "Weight"
-        },
-        "unit": {
-            "fr": "g",
-            "en": "oz"
-        }
-    },
-    {
         "name": "producteur",
         "label": {
             "fr": "Producteur",
@@ -17,10 +6,45 @@
         }
     },
     {
+        "name": "type",
+        "label": {
+            "fr": "Type",
+            "en": "Type"
+        }
+    },
+    {
+        "name": "altitude",
+        "label": {
+            "fr": "Altitude",
+            "en": "Elevation"
+        }
+    },
+    {
+        "name": "capacité",
+        "label": {
+            "en": "Capacity",
+            "fr": "Capacité"
+        }
+    },
+    {
+        "name": "lieu",
+        "label": {
+            "fr": "Lieu",
+            "en": "Location"
+        }
+    },
+    {
         "name": "village",
         "label": {
             "fr": "Village",
             "en": "Village"
+        }
+    },
+    {
+        "name": "cultivar",
+        "label": {
+            "fr": "Cultivar",
+            "en": "Cultivar"
         }
     }
 ]

@@ -251,7 +251,7 @@
         },
         "prix": 8,
         "poids": 0.12,
-        "capacité": 70,
+        "capacité": "70 ml",
         "quantité_produite": 8,
         "photos": [
             "gaiwan_2-a.jpg",
@@ -273,7 +273,7 @@
         },
         "prix": 45,
         "poids": 0.45,
-        "capacité": 110,
+        "capacité": "110 ml",
         "quantité_produite": 16,
         "photos": [
             "set-de-voyage_1-a.jpg",
@@ -299,7 +299,7 @@
         "producteur": "YanLi",
         "prix": 89,
         "poids": 0.18,
-        "capacité": 130,
+        "capacité": "130 ml",
         "quantité_produite": 1,
         "photos": [
             "theiere_3-a.jpg",
@@ -324,7 +324,7 @@
         },
         "prix": 55,
         "poids": 0.185,
-        "capacité": 200,
+        "capacité": "200 ml",
         "quantité_produite": 1,
         "photos": [
             "theiere_4-a.jpg",
@@ -349,7 +349,7 @@
         },
         "prix": 132,
         "poids": 0.163,
-        "capacité": 130,
+        "capacité": "130 ml",
         "producteur": "潘博鴻 - PānBóHóng",
         "quantité_produite": 1,
         "photos": [
@@ -378,7 +378,7 @@
         },
         "prix": 120,
         "poids": 0.15,
-        "capacité": 130,
+        "capacité": "130 ml",
         "quantité_produite": 1,
         "photos": [
             "theiere_8-a.jpg",
@@ -405,7 +405,7 @@
         },
         "prix": 80,
         "poids": 0.135,
-        "capacité": 220,
+        "capacité": "220 ml",
         "quantité_produite": 1,
         "photos": [
             "theiere_9-a.jpg",
@@ -430,12 +430,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_1-a.jpg",
@@ -457,12 +454,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_2-a.jpg",
@@ -484,12 +478,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_3-a.jpg",
@@ -511,12 +502,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_4-a.jpg",
@@ -538,12 +526,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_5-a.jpg",
@@ -565,12 +550,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_7-a.jpg",
@@ -592,12 +574,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_8-a.jpg",
@@ -619,12 +598,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_10-a.jpg",
@@ -646,12 +622,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_11-a.jpg",
@@ -673,12 +646,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_12-a.jpg",
@@ -700,12 +670,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_13-a.jpg",
@@ -727,12 +694,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_14-a.jpg",
@@ -754,12 +718,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_15-a.jpg",
@@ -781,12 +742,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_16-a.jpg",
@@ -808,12 +766,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_17-a.jpg",
@@ -835,12 +790,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_18-a.jpg",
@@ -862,12 +814,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_19-a.jpg",
@@ -889,12 +838,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_20-a.jpg",
@@ -916,12 +862,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_21-a.jpg",
@@ -943,12 +886,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_22-a.jpg",
@@ -970,12 +910,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_23-a.jpg",
@@ -997,12 +934,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_24-a.jpg",
@@ -1024,12 +958,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_25-a.jpg",
@@ -1051,12 +982,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_26-a.jpg",
@@ -1078,12 +1006,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7,
-            "hauteur": 3
-        },
+        "dimension": "7 cm x 3 cm",
         "poids": 0.025,
-        "capacité": 30,
+        "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
             "perrine_tasse_27-a.jpg",
@@ -1105,12 +1030,9 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 20,
-        "dimension": {
-            "largeur": 7.1,
-            "hauteur": 3.9
-        },
+        "dimension": "7,1 cm x 3,9 cm",
         "poids": 0.035,
-        "capacité": 50,
+        "capacité": "50 ml",
         "quantité_produite": 1,
         "photos": [
             "manon_tasse_12-a.jpg",
@@ -1133,7 +1055,7 @@
         },
         "prix": 35.00,
         "poids": 0.074,
-        "capacité": 200,
+        "capacité": "200 ml",
         "quantité_produite": 1,
         "photos": [
             "manon_verseuse-6-a.jpg",
@@ -1156,7 +1078,7 @@
         },
         "prix": 142,
         "poids": 0.12,
-        "capacité": 80,
+        "capacité": "80 ml",
         "quantité_produite": 1,
         "photos": [
             "jerome_theiere_1-a.jpg",
@@ -1181,7 +1103,7 @@
         },
         "prix": 132,
         "poids": 0.12,
-        "capacité": 100,
+        "capacité": "100 ml",
         "quantité_produite": 1,
         "photos": [
             "jerome_theiere_2-a.jpg",
@@ -1206,7 +1128,7 @@
         },
         "prix": 132,
         "poids": 0.13,
-        "capacité": 100,
+        "capacité": "100 ml",
         "quantité_produite": 1,
         "photos": [
             "jerome_theiere_3-a.jpg",
@@ -1232,7 +1154,7 @@
         },
         "prix": 142,
         "poids": 0.12,
-        "capacité": 80,
+        "capacité": "80 ml",
         "quantité_produite": 1,
         "photos": [
             "jerome_theiere_4-a.jpg",
@@ -1257,7 +1179,7 @@
         },
         "prix": 60.00,
         "poids": 0.215,
-        "capacité": 90,
+        "capacité": "90 ml",
         "quantité_produite": 3,
         "photos": [
             "melles-ceramique_gaiwan_1-a.jpg",
@@ -1281,7 +1203,7 @@
         },
         "prix": 200,
         "poids": 0.235,
-        "capacité": 100,
+        "capacité": "100 ml",
         "quantité_produite": 1,
         "photos": [
             "melles-ceramique_theiere_1-a.jpg",
