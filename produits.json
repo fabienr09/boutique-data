@@ -337,34 +337,6 @@
         ]
     },
     {
-        "id": "th7",
-        "titre": {
-            "en": "蓮花湖 - LiánHuāHú teapot",
-            "fr": "Théière 蓮花湖 - LiánHuāHú"
-        },
-        "modification": "2021-06-01",
-        "création": "2021-06-01",
-        "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
-        "catégorie": "chahu",
-        "description": {
-            "en": "This 宜興 - YíXìng - 蓮花湖 - LiánHuāHú teapot, depicting a Lotus flower, was handmade by master ceramist 潘博鴻 - PānBóHong.",
-            "fr": "Cette théière 宜興 - YíXìng - 蓮花湖 - LiánHuāHú, représentant une fleur de Lotus, a été réalisée à la main par la maître céramiste 潘博鴻 - PānBóHong."
-        },
-        "prix": 132,
-        "poids": 0.163,
-        "capacité": "130 ml",
-        "producteur": "潘博鴻 - PānBóHóng",
-        "quantité_produite": 1,
-        "photos": [
-            "theiere_7-a.jpg",
-            "theiere_7-b.jpg",
-            "theiere_7-c.jpg",
-            "theiere_7-d.jpg",
-            "theiere_7-e.jpg",
-            "theiere_7-f.jpg"
-        ]
-    },
-    {
         "id": "th8",
         "titre": {
             "en": "石瓢 - ShíPiáo teapot",
