@@ -1016,29 +1016,6 @@
         ]
     },
     {
-        "id": "manonver6",
-        "titre": {
-            "en": "茶海 - CháHǎi (Tea serving pot)",
-            "fr": "茶海 - CháHǎi (Verseuse)"
-        },
-        "modification": "2023-05-18",
-        "création": "2023-05-18",
-        "catégorie": "manon-clouzeau",
-        "description": {
-            "en": "CháHǎi, glazed tea serving pot. Unique piece.",
-            "fr": "CháHǎi, verseuse émaillée. Pièce unique."
-        },
-        "prix": 35.00,
-        "poids": 0.074,
-        "capacité": "200 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "manon_verseuse-6-a.jpg",
-            "manon_verseuse_6-b.jpg",
-            "manon_verseuse_6-c.jpg"
-        ]
-    },
-    {
         "id": "jetheiere1",
         "titre": {
             "en": "Small glazed teapot",
