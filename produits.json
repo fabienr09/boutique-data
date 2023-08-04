@@ -187,32 +187,6 @@
         ]
     },
     {
-        "id": "wulong12",
-        "titre": {
-            "en": "包种茶 - Bāo Zhǒng Chá",
-            "fr": "包种茶 - Bāo Zhǒng Chá"
-        },
-        "modification": "2023-05-22",
-        "création": "2023-05-22",
-        "catégorie": "cha",
-        "description": {
-            "en": "The 包种茶 - Bāo Zhǒng Chá are famous teas in Taiwan, they are 青茶 - QīngChá with low oxidation about 25%. We chose this garden because at 80 years old, Mr. 郑 - Zhèng still makes teas according to traditional recipes, hand-picked and in very small production. We find it fresh, vitalizing and airy, almost cosmic ;)",
-            "fr": "Les 包种茶 - Bāo Zhǒng Chá sont des thés réputés à Taïwan, ce sont des 青茶 - QīngChá à faible oxydation environ 25%. Nous avons choisi ce jardin, car à 80 ans, Monsieur 郑 - Zhèng réalise encore des thés selon des recettes traditionnelles, en cueillette manuel et en toute petite production. Nous le trouvons frais, vitalisant et aérien, presque cosmique ;)"
-        },
-        "prix": 18,
-        "poids": 0.0375,
-        "quantité_produite": 1,
-        "producteur": "Monsieur 郑 - Zhèng",
-        "récolte": "automne 2021",
-        "type": "bleu-vert - 青茶 - QīngChá",
-        "village": "三峡 - SānXiá",
-        "lieu": "台湾 - TáiWān",
-        "photos": [
-            "QuingCha_BaoZhong_1-a.jpg",
-            "conserve_1-c.jpg"
-        ]
-    },
-    {
         "id": "blanc10",
         "titre": {
             "en": "白茶 - BáiChá",
