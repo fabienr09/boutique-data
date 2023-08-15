@@ -293,34 +293,6 @@
         ]
     },
     {
-        "id": "th8",
-        "titre": {
-            "en": "石瓢 - ShíPiáo teapot",
-            "fr": "Théière 石瓢 - ShíPiáo"
-        },
-        "modification": "2021-06-01",
-        "création": "2021-06-01",
-        "catégorie": "chahu",
-        "producteur": "潘博鴻 - PānBóHóng",
-        "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
-        "description": {
-            "en": "This red clay teapot from 宜興 - YíXìng features the traditional 石瓢 - ShíPiáo shape. It was handmade 自製 - ZìZhì (homemade) by master ceramist 潘博鴻 - PānBóHong.",
-            "fr": "Cette théière en argile rouge du 宜興 - YíXìng reprend la forme traditionnelle 石瓢 - ShíPiáo. Elle a été réalisée à la main 自製 - ZìZhì (fait maison) par la maître céramiste 潘博鴻 - PānBóHong."
-        },
-        "prix": 120,
-        "poids": 0.15,
-        "capacité": "130 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "theiere_8-a.jpg",
-            "theiere_8-b.jpg",
-            "theiere_8-c.jpg",
-            "theiere_8-d.jpg",
-            "theiere_8-e.jpg",
-            "theiere_8-f.jpg"
-        ]
-    },
-    {
         "id": "th9",
         "titre": {
             "en": "三足乳鼎 - SānZúRǔDǐng teapot",
