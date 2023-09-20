@@ -284,41 +284,13 @@
         "en": "蜜香红茶 - MìXiāng HóngChá",
         "fr": "蜜香红茶 - MìXiāng HóngChá"
     },
-    "modification": "2023-08-31",
-    "création": "2023-08-31",
-    "catégorie": "cha",
-    "description": {
-        "en": "This 红茶 - HóngChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
-        "fr": "Ce 红茶 - HóngChá, thé rouge caractéristique par son arôme de miel est réalisé avec le cultivar 青心柑仔 - QīngXīnGānZǐ， un théier indigène unique de 三峡 - SānXiá. La famille de Monsieur Li cultive le thé depuis trois générations. En plus de son jardins de thé au district de 三峡 - SānXiá, à la périphérie de Taipei, Monsieur 李 - Lǐ a également un jardins de thé à 南投 - Nántóu, dans le centre de Taiwan. Je le connais depuis dix ans, et il a toujours fidèlement conservé son sérieux et sa sincérité dans la préparation du thé"
-    },
-    "prix": 18,
-    "poids": 0.025,
-    "quantité_produite": 10,
-    "producteur": {
-        "fr": "Monsieur 李 - Lǐ",
-        "en": "Mrs  李 - Lǐ"
-    },
-    "récolte": "printemps 2023",
-    "type": "rouge - 红茶 - HóngChá",
-    "village": "三峡 - SānXiá",
-    "lieu": "台灣 - TáiWān",
-    "photos": [
-        "MiXiang-HongCha_1-a.jpg",
-        "MiXiang-HongCha_1-b.jpg"
-    ]
-},
-{
-    "id": "hong2",
-    "titre": {
-        "en": "蜜香红茶 - MìXiāng HóngChá",
-        "fr": "蜜香红茶 - MìXiāng HóngChá"
-    },
     "modification": "2023-08-30",
     "création": "2023-08-30",
     "catégorie": "cha",
     "description": {
-        "en": "This 红茶 - HóngChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
-        "fr": "Ce 红茶 - Ce thé rouge est réalisé par M. à partir d'une espèce indigène unique de mandarine Qingxin dans la région des Trois Gorges. Il a un arôme unique d’agrumes et de miel. M. Li est la troisième génération du district de Sanxia et il possède également des jardins de thé dans le comté de Nantou. M. Li et moi avons fait connaissance grâce à la présentation de mon professeur de qigong, et notre amitié dure près de dix ans.HóngChá est le premier thé de Madame 张 - Zhāng jeune productrice de 65 ans. Ancienne directrice de l'école primaire de 三峡 - SānXiá, elle passe sa nouvelle vie dans les jardins de thé de ses amis producteurs. Son thé est sincère avec des petits défauts de jeunesse adorables."
+        "en": "
+        This 红茶 - HóngChá with its characteristic honey notes is made with the endemic cultivar 青心柑仔 - QīngXīnGānZǐ from 三峡 - SānXiá. Mr. 李 - Lǐ's family has been cultivating tea for three generations. He owns two tea gardens in 三峡 - SānXiá, on the outskirts of Taipei, and in 南投 - Nántóu, in the center of 臺灣 - Táiwān. I've known him for ten years, and he has always faithfully maintained his seriousness and sincerity in tea preparation.",
+        "fr": "Ce 红茶 - HóngChá aux notes de miel caractéristiques est réalisé avec le cultivar endémique 青心柑仔 - QīngXīnGānZǐ de 三峡 - SānXiá. La famille de Monsieur 李 - Lǐ cultive le thé depuis trois générations. Il possède deux jardins de thé à 三峡 - SānXiá, à la périphérie de Taipei et à 南投 - Nántóu, dans le centre de 臺灣 - Táiwān. Je le connais depuis dix ans, et il a toujours fidèlement conservé son sérieux et sa sincérité dans la préparation du thé."
     },
     "prix": 18,
     "poids": 0.025,
@@ -348,7 +320,7 @@
     "catégorie": "cha",
     "description": {
         "en": "This 高山茶 - GāoShānChá (high mountain tea) is one of the emblematic 烏龍 - WūLóng teas of 臺灣 - Táiwān. 梨山 - LíShān is located in 臺中市 - TáiZhōng and has an average altitude of 2000 meters. There are only two harvests per year. Due to the large difference in temperature between day and night, the tea grows slowly and the leaves are thicker. In the mountains, with persistent clouds and mist, the duration of sunlight is short, which reduces the catechin content and thus the astringency.",
-        "fr": "Ce 高山茶 - GāoShānChá (thé de haute montagne) est l'un des thés 烏龍 - WūLóng emblèmatiques de 臺灣 - Táiwān. 梨山 - LíShān est situé à 臺中市 - TáiZhōng a une altitude moyenne de 2000 mètres. Il n'y a que deux récoltes par an. En raison de la grande différence de température entre le jour et la nuit, le thé pousse lentement et les feuilles sont plus épaisses. Dans les montagnes avec les nuages et la brume persistante, la durée d'ensoleillement est courte ce qui réduit la teneur en catéchines et donc l'astringence."
+        "fr": "Ce 高山茶 - GāoShānChá (thé de haute montagne) est l'un des thés 烏龍 - WūLóng emblématiques de 臺灣 - Táiwān. 梨山 - LíShān est situé à 臺中市 - TáiZhōng a une altitude moyenne de 2000 mètres. Il n'y a que deux récoltes par an. En raison de la grande différence de température entre le jour et la nuit, le thé pousse lentement et les feuilles sont plus épaisses. Dans les montagnes avec les nuages et la brume persistante, la durée d'ensoleillement est courte ce qui réduit la teneur en catéchines et donc l'astringence."
     },
     "prix": 18,
     "poids": 0.025,
