@@ -183,10 +183,7 @@
         "en": "Mrs 李 - Lǐ"
     },
     "récolte": "printemps 2023",
-    "type": {
-        "fr": "blanc - 白茶 - BáiChá",
-        "en": "white - 白茶 - BáiChá"
-    },
+    "type": "",
     "village": "白鹿村 -  BáiLùCūn",
     "lieu": "四川 - SìChuān",
     "photos": [
@@ -215,10 +212,7 @@
         "en": "Mrs 李- Lǐ "
     },
     "récolte": "printemps 2023",
-    "type": {
-        "fr": "vert - 綠茶 - LǜChá",
-        "en": "green - 綠茶 - LǜChá"
-    },
+    "type": "vert - 綠茶 - LǜChá",
     "village": "三峡 - SānXiá",
     "lieu": "台灣 - TáiWān",
     "photos": [
@@ -247,10 +241,7 @@
         "en": "Mrs 童 - Tóng"
     },
     "récolte": "printemps 2023",
-    "type": {
-        "fr": "vert - 綠茶 - LǜChá",
-        "en": "green - 綠茶 - LǜChá"
-    },
+    "type": "vert - 綠茶 - LǜChá",
     "village": "拳石 - Quán Shí",
     "lieu": "四川 - SìChuān",
     "photos": [
@@ -279,10 +270,7 @@
         "en": "Mrs 李 - Lǐ"
     },
     "récolte": "printemps 2023",
-    "type": {
-        "fr": "vert - 綠茶 - LǜChá",
-        "en": "green - 綠茶 - LǜChá"
-    },
+    "type": "vert - 綠茶 - LǜChá",
     "village": "白鹿村 -  BáiLùCūn",
     "lieu": "四川 - SìChuān",
     "photos": [
@@ -292,39 +280,6 @@
 },
 {
     "id": "hong1",
-    "titre": {
-        "en": "蜜香红茶 - MìXiāng HóngChá",
-        "fr": "蜜香红茶 - MìXiāng HóngChá"
-    },
-    "modification": "2023-05-22",
-    "création": "2023-05-22",
-    "catégorie": "cha",
-    "description": {
-        "en": "This 红茶 - HóngChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
-        "fr": "Ce 红茶 - HóngChá est le premier thé de Madame 张 - Zhāng jeune productrice de 65 ans. Ancienne directrice de l'école primaire de 三峡 - SānXiá, elle passe sa nouvelle vie dans les jardins de thé de ses amis producteurs. Son thé est sincère avec des petits défauts de jeunesse adorables."
-    },
-    "prix": 18,
-    "poids": 0.025,
-    "quantité_produite": 10,
-    "producteur": {
-        "fr": "Madame 张 - Zhāng",
-        "en": "Mrs 张 - Zhāng"
-    },
-    "récolte": "printemps 2023",
-    "type": {
-        "fr": "rouge - 红茶 - HóngChá",
-        "en": "red - 红茶 - HóngChá"
-    },
-    "village": "三峡 - SānXiá",
-    "lieu": "台灣 - TáiWān",
-    "photos": [
-        "HongCha_MiXiang_1-a.jpg",
-        "HongCha_MiXiang_1-b.jpg",
-        "conserve_1-c.jpg"
-    ]
-},
-{
-    "id": "hong2",
     "titre": {
         "en": "蜜香红茶 - MìXiāng HóngChá",
         "fr": "蜜香红茶 - MìXiāng HóngChá"
@@ -344,10 +299,7 @@
         "en": "Mrs  李 - Lǐ"
     },
     "récolte": "printemps 2023",
-    "type": {
-        "fr": "rouge - 红茶 - HóngChá",
-        "en": "red - 红茶 - HóngChá"
-    },
+    "type": "rouge - 红茶 - HóngChá",
     "village": "三峡 - SānXiá",
     "lieu": "台灣 - TáiWān",
     "photos": [
@@ -356,7 +308,7 @@
     ]
 },
 {
-    "id": "hong3",
+    "id": "hong2",
     "titre": {
         "en": "蜜香红茶 - MìXiāng HóngChá",
         "fr": "蜜香红茶 - MìXiāng HóngChá"
@@ -376,10 +328,7 @@
         "en": "Mr 李 - LǐZhāng"
     },
     "récolte": "printemps 2023",
-    "type": {
-        "fr": "rouge - 红茶 - HóngChá",
-        "en": "red - 红茶 - HóngChá"
-    },
+    "type": "rouge - 红茶 - HóngChá",
     "village": "三峡 - SānXiá",
     "lieu": "台灣 - TáiWān",
     "photos": [
@@ -409,10 +358,7 @@
         "en": "Mrs  李 - Lǐ"
     },
     "récolte": "printemps 2023",
-    "type": {
-        "fr": "bleu-vert - 烏龍茶 - WūLóngChá",
-        "en": "bleu-vert - 烏龍茶 - WūLóngChá"
-    },
+    "type": "bleu-vert - 烏龍茶 - WūLóngChá",
     "village": "臺中 - TáiZhōng",
     "lieu": "台灣 - TáiWān",
     "photos": [
@@ -442,10 +388,7 @@
         "en": "Mrs  李 - Lǐ"
     },
     "récolte": "printemps 2023",
-    "type": {
-        "fr": "bleu-vert - 烏龍茶 - WūLóngChá",
-        "en": "bleu-vert - 烏龍茶 - WūLóngChá"
-    },
+    "type": "bleu-vert - 烏龍茶 - WūLóngChá",
     "village": "南投 - NánTóu",
     "lieu": "台灣 - TáiWān",
     "photos": [
