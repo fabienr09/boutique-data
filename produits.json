@@ -389,38 +389,6 @@
     ]
 },
 {
-    "id": "hong4",
-    "titre": {
-        "en": "白鹿白茶 - BáiLù BáiChá",
-        "fr": "白鹿白茶 - BáiLù BáiChá"
-    },
-    "modification": "2023-08-30",
-    "création": "2023-08-30",
-    "catégorie": "cha",
-    "description": {
-        "en": "This 白茶 - BáiChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
-        "fr": "Ce 白茶 - BáiChá est un produit unique du 白鹿村 -  BáiLùCūn qui se trouve dans le province du 四川 - SìChuān en Chine à environ 850 mètres d'altitude. Ce petit village ne couvre qu'une superficie de 5,8 kilomètres carrés et compte un peu plus de 1 300 habitants. Aucune industrie, son environnement est donc naturellement excellent et propice à la production agricole. Le 白鹿白茶 - BáiLù BáiChá provient de la famille des Lauracées plutôt que du Camellia sinensis. Il n'est pas le thé blanc que l'on connaisse dans les 6 familles de thé chiois. C'est une infusion que la population locale apprécie depuis un millier d'année, principalement produite dans ce village. L'arbre de ce thé pousse dans la montagne BáiLù et qui dégage le parfum unique des plantes Lauracées. Son infusion est de couleur rouge vif et a un retour sucré dans la bouche après son passage. Il est notamment bon pour les personnes habituées à manger des plats épicés car il a pour effet de nourrir la rate et l’estomac. Ce brevage est non-caféiné."
-    },
-    "prix": 18,
-    "poids": 0.025,
-    "quantité_produite": 10,
-    "producteur": {
-        "fr": "Monsieur  李 - Lǐ",
-        "en": "Mrs 李 - Lǐ"
-    },
-    "récolte": "printemps 2023",
-    "type": {
-        "fr": "blanc - 白茶 - BáiChá",
-        "en": "white - 白茶 - BáiChá"
-    },
-    "village": "白鹿村 -  BáiLùCūn",
-    "lieu": "四川 - SìChuān",
-    "photos": [
-        "BaiLu-BaiCha_1-a.jpg",
-        "BaiLu-BaiCha_1-b.jpg"
-    ]
-},
-{
     "id": "wu1",
     "titre": {
         "en": "梨山高山茶 - LíShān GāoShānChá",
