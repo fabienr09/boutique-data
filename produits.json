@@ -1,1073 +1,1363 @@
 [{
-        "id": "Don5",
-        "titre": {
-            "en": "5 € donation",
-            "fr": "Don de 5 €"
-        },
-        "modification": "2022-08-11",
-        "création": "2022-08-12",
-        "catégorie": "dons",
-        "description": {
-            "en": "Donate 5 € and get a huge thank you from us.",
-            "fr": "Faire un don de 5 €."
-        },
-        "prix": 5.00,
-        "quantité_produite": 30,
-        "photos": [
-            "ticket-gongfucha.jpg"
-        ]
+    "id": "Don5",
+    "titre": {
+        "en": "5 € donation",
+        "fr": "Don de 5 €"
     },
-    {
-        "id": "Don10",
-        "titre": {
-            "en": "10 € donation",
-            "fr": "Don de 10 €"
-        },
-        "modification": "2022-08-11",
-        "création": "2022-08-12",
-        "catégorie": "dons",
-        "description": {
-            "en": "Donate 15 € and receive the festival poster.",
-            "fr": "Faire un don de 15 € et reçevoir l'affiche du festival."
-        },
-        "prix": 15.00,
-        "quantité_produite": 30,
-        "photos": [
-            "ticket-gongfucha.jpg"
-        ]
+    "modification": "2022-08-11",
+    "création": "2022-08-12",
+    "catégorie": "dons",
+    "description": {
+        "en": "Donate 5 € and get a huge thank you from us.",
+        "fr": "Faire un don de 5 €."
     },
-    {
-        "id": "Don50",
-        "titre": {
-            "en": "50 € donation",
-            "fr": "Don de 50 €"
-        },
-        "modification": "2022-08-11",
-        "création": "2022-08-12",
-        "catégorie": "dons",
-        "description": {
-            "en": "Donate 50 € and receive a tea bowl made by Manon Clouzeau and the festival poster.",
-            "fr": "Faire un don de 50 € et recevoir un bol à thé de Manon Clouzeau et l'affiche du festival."
-        },
-        "prix": 50.00,
-        "quantité_produite": 30,
-        "photos": [
-            "ticket-gongfucha.jpg"
-        ]
+    "prix": 5.00,
+    "quantité_produite": 30,
+    "photos": [
+        "ticket-gongfucha.jpg"
+    ]
+},
+{
+    "id": "Don10",
+    "titre": {
+        "en": "10 € donation",
+        "fr": "Don de 10 €"
     },
-    {
-        "id": "Don100",
-        "titre": {
-            "en": "100 € donation",
-            "fr": "Don de 100 €"
-        },
-        "modification": "2022-08-11",
-        "création": "2022-08-12",
-        "catégorie": "dons",
-        "description": {
-            "en": "Donate 100 € and receive a tasting kit and the festival poster.",
-            "fr": "Faire un don de 100 € et recevoir un kit de dégustation et l'affiche du festival."
-        },
-        "prix": 100.00,
-        "quantité_produite": 30,
-        "photos": [
-            "ticket-gongfucha.jpg"
-        ]
+    "modification": "2022-08-11",
+    "création": "2022-08-12",
+    "catégorie": "dons",
+    "description": {
+        "en": "Donate 15 € and receive the festival poster.",
+        "fr": "Faire un don de 15 € et reçevoir l'affiche du festival."
     },
-    {
-        "id": "Don500",
-        "titre": {
-            "en": "500 € donation",
-            "fr": "Don de 500 €"
-        },
-        "modification": "2022-08-11",
-        "création": "2022-08-12",
-        "catégorie": "dons",
-        "description": {
-            "en": "Donate 500 € and exchange with us for presents.",
-            "fr": "Faire un don de 500 € et échanger avec nous pour imaginer ensemble une contre-partie."
-        },
-        "prix": 500.00,
-        "quantité_produite": 30,
-        "photos": [
-            "ticket-gongfucha.jpg"
-        ]
+    "prix": 15.00,
+    "quantité_produite": 30,
+    "photos": [
+        "ticket-gongfucha.jpg"
+    ]
+},
+{
+    "id": "Don50",
+    "titre": {
+        "en": "50 € donation",
+        "fr": "Don de 50 €"
     },
-    {
-        "id": "affiches2",
-        "titre": {
-            "en": "Two posters of the GongFuCha festival",
-            "fr": "Deux affiches originales du festival GongFuCha"
-        },
-        "modification": "2023-05-18",
-        "création": "2023-05-18",
-        "catégorie": "benhito",
-        "description": {
-            "en": "Two posters for the GongFuCha festival. Benhito came out of his rock universe to hit it right and hard in a pure style with a perfect colouring.",
-            "fr": "Deux affiches du festival GongFuCha. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite."
-        },
-        "prix": 20.00,
-        "quantité_produite": 100,
-        "poids": 0.025,
-        "photos": [
-            "gongfucha_affiches_a.jpg"
-        ]
+    "modification": "2022-08-11",
+    "création": "2022-08-12",
+    "catégorie": "dons",
+    "description": {
+        "en": "Donate 50 € and receive a tea bowl made by Manon Clouzeau and the festival poster.",
+        "fr": "Faire un don de 50 € et recevoir un bol à thé de Manon Clouzeau et l'affiche du festival."
     },
-    {
-        "id": "serigraphie1",
-        "titre": {
-            "en": "Silk-screen printing - limited edition 100 copies",
-            "fr": "Sérigraphie - tirage limité 100 exemplaires"
-        },
-        "modification": "2023-05-18",
-        "création": "2023-05-18",
-        "catégorie": "benhito",
-        "description": {
-            "en": "A variation of the first poster of the festival to frame the image of our collective: Brut de Thé. The Chinese translation is not literal at all, it is an assumed choice that could be interpreted as -the soul of tea-. Each piece is unique, they have been carefully printed by Delphine Chapuis in Saint-Étienne and are checked and signed by the author.",
-            "fr": "Une déclinaison de la première affiche du festival pour cadrer l'image de notre collectif : Brut de Thé. La traduction en chinois n'est pas du tout littérale, c'est un choix assumé qu'on pourrait interprété par -l'âme du thé-. Chaque pièce est unique elles ont été tiré avec soin par Delphine Chapuis à Saint-Étienne et sont contrôlées et signées par l'auteur."
-        },
-        "prix": 45.00,
-        "quantité_produite": 79,
-        "poids": 0.025,
-        "photos": [
-            "serigraphie_b2t_a.jpg",
-            "serigraphie_b2t_b.jpg",
-            "serigraphie_b2t_c.jpg"
-        ]
+    "prix": 50.00,
+    "quantité_produite": 30,
+    "photos": [
+        "ticket-gongfucha.jpg"
+    ]
+},
+{
+    "id": "Don100",
+    "titre": {
+        "en": "100 € donation",
+        "fr": "Don de 100 €"
     },
-    {
-        "id": "hong1",
-        "titre": {
-            "en": "蜜香红茶 - MìXiāng HóngChá",
-            "fr": "蜜香红茶 - MìXiāng HóngChá"
-        },
-        "modification": "2023-05-22",
-        "création": "2023-05-22",
-        "catégorie": "cha",
-        "description": {
-            "en": "This 红茶 - HóngChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
-            "fr": "Ce 红茶 - HóngChá est le premier thé de Madame 张 - Zhāng jeune productrice de 65 ans. Ancienne directrice de l'école primaire de 三峡 - SānXiá, elle passe sa nouvelle vie dans les jardins de thé de ses amis producteurs. Son thé est sincère avec des petits défauts de jeunesse adorables."
-        },
-        "prix": 18,
-        "poids": 0.025,
-        "quantité_produite": 10,
-        "producteur": {
-            "fr": "Madame 张 - Zhāng",
-            "en": "Mrs 张 - Zhāng"
-        },
-        "récolte": "printemps 2023",
-        "type": {
-            "fr": "rouge - 红茶 - HóngChá",
-            "en": "red - 红茶 - HóngChá"
-        },
-        "village": "三峡 - SānXiá",
-        "lieu": "台湾 - TáiWān",
-        "photos": [
-            "HongCha_MiXiang_1-a.jpg",
-            "HongCha_MiXiang_1-b.jpg",
-            "conserve_1-c.jpg"
-        ]
+    "modification": "2022-08-11",
+    "création": "2022-08-12",
+    "catégorie": "dons",
+    "description": {
+        "en": "Donate 100 € and receive a tasting kit and the festival poster.",
+        "fr": "Faire un don de 100 € et recevoir un kit de dégustation et l'affiche du festival."
     },
-    {
-        "id": "blanc10",
-        "titre": {
-            "en": "白茶 - BáiChá",
-            "fr": "白茶 - BáiChá"
-        },
-        "modification": "2023-05-22",
-        "création": "2023-05-22",
-        "catégorie": "cha",
-        "description": {
-            "en": "Mr. 李 - Lǐ grows his tea bushes and makes tea for his personal use. This 白茶 - BáiChá tea is made from an endemic cultivar from the village of 三峡 - SānXiá, the 青心柑种 - Qīng Xīn Gān Zhǒng, and a hybrid, the 金萱 - Jīn Xuān. He agreed to sell us a very small amount, we find this tea fine and discreet, with subtle and soothing scents.",
-            "fr": "Monsieur 李 - Lǐ fait pousser ses théiers et fabrique du thé pour son usage personnel. Ce thé 白茶 - BáiChá est issu d’un cultivar endémique du village de 三峡 - SānXiá, le 青心柑种 - Qīng Xīn Gān Zhǒng, et d’un hybride, le 金萱 - Jīn Xuān. Il a accepté de nous en vendre une toute petite quantité, nous le trouvons fin et discret, aux parfums subtils et apaisants."
-        },
-        "prix": 18,
-        "poids": 0.0375,
-        "quantité_produite": 3,
-        "producteur": "Monsieur 李 - Lǐ",
-        "récolte": "automne 2021",
-        "type": "blanc - 白茶 - BáiChá",
-        "village": "三峡 - SānXiá",
-        "lieu": "台湾 - TáiWān",
-        "photos": [
-            "BaiCha-LiGuanKuan_1-a.jpg",
-            "BaiCha-LiGuanKuan_1-a.jpg",
-            "conserve_1-c.jpg"
-        ]
+    "prix": 100.00,
+    "quantité_produite": 30,
+    "photos": [
+        "ticket-gongfucha.jpg"
+    ]
+},
+{
+    "id": "Don500",
+    "titre": {
+        "en": "500 € donation",
+        "fr": "Don de 500 €"
     },
-    {
-        "id": "ga2",
-        "titre": {
-            "en": "Basic GàiWǎn",
-            "fr": "GàiWǎn basique"
-        },
-        "modification": "2021-04-10",
-        "création": "2021-04-10",
-        "catégorie": "gaiwan",
-        "description": {
-            "en": "White basic porcelain GàiWǎn.",
-            "fr": "GàiWǎn basique en porcelaine blanche."
-        },
-        "prix": 8,
-        "poids": 0.12,
-        "capacité": "70 ml",
-        "quantité_produite": 8,
-        "photos": [
-            "gaiwan_2-a.jpg",
-            "gaiwan_2-b.jpg"
-        ]
+    "modification": "2022-08-11",
+    "création": "2022-08-12",
+    "catégorie": "dons",
+    "description": {
+        "en": "Donate 500 € and exchange with us for presents.",
+        "fr": "Faire un don de 500 € et échanger avec nous pour imaginer ensemble une contre-partie."
     },
-    {
-        "id": "sdv2",
-        "titre": {
-            "en": "Travel set",
-            "fr": "Set de voyage"
-        },
-        "modification": "2021-04-10",
-        "création": "2021-04-10",
-        "catégorie": "gaiwan",
-        "description": {
-            "en": "This beginners kit includes the essentiels to prepare authentic tea : a 蓋碗 - GàiWǎn, a 茶海 - CháHǎi and three tea bowls (茶杯 - CháBēi). It is the perfect travel companion thanks to its protective cover.",
-            "fr": "Ce kit de démarrage comprend les éléments essentiels à la préparation du thé authentique : un 蓋碗 - GàiWǎn, un 茶海 - CháHǎi et trois bols à thé (茶杯 - CháBēi). C'est aussi le compagnon de voyage idéal grâce à sa housse de protection."
-        },
-        "prix": 45,
-        "poids": 0.45,
-        "capacité": "110 ml",
-        "quantité_produite": 16,
-        "photos": [
-            "set-de-voyage_1-a.jpg",
-            "set-de-voyage_1-b.jpg",
-            "set-de-voyage_1-c.jpg",
-            "set-de-voyage_1-d.jpg"
-        ]
+    "prix": 500.00,
+    "quantité_produite": 30,
+    "photos": [
+        "ticket-gongfucha.jpg"
+    ]
+},
+{
+    "id": "affiches2",
+    "titre": {
+        "en": "Two posters of the GongFuCha festival",
+        "fr": "Deux affiches originales du festival GongFuCha"
     },
-    {
-        "id": "th3",
-        "titre": {
-            "en": "遍訪古 - BiànFǎngGǔ teapot",
-            "fr": "Théière 遍訪古 - BiànFǎngGǔ"
-        },
-        "modification": "2021-04-10",
-        "création": "2021-04-10",
-        "catégorie": "chahu",
-        "description": {
-            "en": "This teapot has a 遍訪古 - BiànFǎngGǔ shape. It was made from 黑金鋼沙 - HēiJīnGāngShā, a mix of two clays: 紫泥 - ZǐNí and 寶藍朱泥 - BǎolánZhūNí.",
-            "fr": "Cette théière est de forme 遍訪古 - BiànFǎngGǔ. Elle a été fabriquée à partir d'un mélange appelé 黑金鋼沙 - HēiJīnGāngShā, composé de deux argiles : 紫泥 - ZǐNí et 寶藍朱泥 - BǎolánZhūNí."
-        },
-        "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
-        "producteur": "YanLi",
-        "prix": 89,
-        "poids": 0.18,
-        "capacité": "130 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "theiere_3-a.jpg",
-            "theiere_3-b.jpg",
-            "theiere_3-c.jpg",
-            "theiere_3-d.jpg"
-        ]
+    "modification": "2023-05-18",
+    "création": "2023-05-18",
+    "catégorie": "benhito",
+    "description": {
+        "en": "Two posters for the GongFuCha festival. Benhito came out of his rock universe to hit it right and hard in a pure style with a perfect colouring.",
+        "fr": "Deux affiches du festival GongFuCha. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite."
     },
-    {
-        "id": "th4",
-        "titre": {
-            "en": "西施 - XīShī teapot",
-            "fr": "Théière 西施 - XīShī"
-        },
-        "modification": "2021-04-10",
-        "création": "2021-04-10",
-        "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
-        "catégorie": "chahu",
-        "description": {
-            "en": "This 宜興-YíXìng red clay teapot of 西施-XīShī shape made in 半手工-BànShǒuGōng mode, i.e. semi-manually, using molds.",
-            "fr": "Cette théière en argile rouge du 宜興 - YíXìng de forme 西施 - XīShī fabriquée en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules."
-        },
-        "prix": 55,
-        "poids": 0.185,
-        "capacité": "200 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "theiere_4-a.jpg",
-            "theiere_4-b.jpg",
-            "theiere_4-c.jpg",
-            "theiere_4-d.jpg"
-        ]
+    "prix": 20.00,
+    "quantité_produite": 100,
+    "poids": 0.025,
+    "photos": [
+        "gongfucha_affiches_a.jpg"
+    ]
+},
+{
+    "id": "serigraphie1",
+    "titre": {
+        "en": "Silk-screen printing - limited edition 100 copies",
+        "fr": "Sérigraphie - tirage limité 100 exemplaires"
     },
-    {
-        "id": "th9",
-        "titre": {
-            "en": "三足乳鼎 - SānZúRǔDǐng teapot",
-            "fr": "Théière 三足乳鼎 - SānZúRǔDǐng"
-        },
-        "modification": "2021-06-01",
-        "création": "2021-06-01",
-        "origine": "臺灣 - Táiwān",
-        "catégorie": "chahu",
-        "description": {
-            "en": "This 三足乳鼎 - SānZúRǔDǐng shaped teapot was made in 臺灣 - Táiwān in 半手工 - BànShǒuGōng mode, which means semi-manual, using molds. It bears an inscription related to Buddhist culture: 觀自在 - GuānZìZài which invites to be at peace with nature.",
-            "fr": "Cette théière de forme 三足乳鼎 - SānZúRǔDǐng fabriquée à 臺灣 - Táiwān en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules. Elle porte une inscription liée à la culture bouddhiste : 觀自在 - GuānZìZài qui invite à être en paix avec la nature."
-        },
-        "prix": 80,
-        "poids": 0.135,
-        "capacité": "220 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "theiere_9-a.jpg",
-            "theiere_9-b.jpg",
-            "theiere_9-c.jpg",
-            "theiere_9-d.jpg",
-            "theiere_9-e.jpg",
-            "theiere_9-f.jpg"
-        ]
+    "modification": "2023-05-18",
+    "création": "2023-05-18",
+    "catégorie": "benhito",
+    "description": {
+        "en": "A variation of the first poster of the festival to frame the image of our collective: Brut de Thé. The Chinese translation is not literal at all, it is an assumed choice that could be interpreted as -the soul of tea-. Each piece is unique, they have been carefully printed by Delphine Chapuis in Saint-Étienne and are checked and signed by the author.",
+        "fr": "Une déclinaison de la première affiche du festival pour cadrer l'image de notre collectif : Brut de Thé. La traduction en chinois n'est pas du tout littérale, c'est un choix assumé qu'on pourrait interprété par -l'âme du thé-. Chaque pièce est unique elles ont été tiré avec soin par Delphine Chapuis à Saint-Étienne et sont contrôlées et signées par l'auteur."
     },
-    {
-        "id": "perrinebol1",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_1-a.jpg",
-            "perrine_tasse_1-b.jpg",
-            "perrine_tasse_1-c.jpg"
-        ]
+    "prix": 45.00,
+    "quantité_produite": 79,
+    "poids": 0.025,
+    "photos": [
+        "serigraphie_b2t_a.jpg",
+        "serigraphie_b2t_b.jpg",
+        "serigraphie_b2t_c.jpg"
+    ]
+},
+{
+    "id": "bai1",
+    "titre": {
+        "en": "白茶 - BáiChá",
+        "fr": "白茶 - BáiChá"
     },
-    {
-        "id": "perrinebol2",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_2-a.jpg",
-            "perrine_tasse_2-b.jpg",
-            "perrine_tasse_2-c.jpg"
-        ]
+    "modification": "2023-05-22",
+    "création": "2023-05-22",
+    "catégorie": "cha",
+    "description": {
+        "en": "Mr. 李 - Lǐ grows his tea bushes and makes tea for his personal use. This 白茶 - BáiChá tea is made from an endemic cultivar from the village of 三峡 - SānXiá, the 青心柑种 - Qīng Xīn Gān Zhǒng, and a hybrid, the 金萱 - Jīn Xuān. He agreed to sell us a very small amount, we find this tea fine and discreet, with subtle and soothing scents.",
+        "fr": "Monsieur 李 - Lǐ fait pousser ses théiers et fabrique du thé pour son usage personnel. Ce thé 白茶 - BáiChá est issu d’un cultivar endémique du village de 三峡 - SānXiá, le 青心柑种 - Qīng Xīn Gān Zhǒng, et d’un hybride, le 金萱 - Jīn Xuān. Il a accepté de nous en vendre une toute petite quantité, nous le trouvons fin et discret, aux parfums subtils et apaisants."
     },
-    {
-        "id": "perrinebol3",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_3-a.jpg",
-            "perrine_tasse_3-b.jpg",
-            "perrine_tasse_3-c.jpg"
-        ]
+    "prix": 18,
+    "poids": 0.0375,
+    "quantité_produite": 3,
+    "producteur": "Monsieur 李 - Lǐ",
+    "récolte": "automne 2021",
+    "type": "blanc - 白茶 - BáiChá",
+    "village": "三峡 - SānXiá",
+    "lieu": "台灣 - TáiWān",
+    "photos": [
+        "BaiCha-LiGuanKuan_1-a.jpg",
+        "BaiCha-LiGuanKuan_1-a.jpg",
+        "conserve_1-c.jpg"
+    ]
+},
+{
+    "id": "bai2",
+    "titre": {
+        "en": "白鹿白茶 - BáiLù BáiChá",
+        "fr": "白鹿白茶 - BáiLù BáiChá"
     },
-    {
-        "id": "perrinebol4",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_4-a.jpg",
-            "perrine_tasse_4-b.jpg",
-            "perrine_tasse_4-c.jpg"
-        ]
+    "modification": "2023-08-30",
+    "création": "2023-08-30",
+    "catégorie": "cha",
+    "description": {
+        "en": "This 白茶 - BáiChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
+        "fr": "Ce 白茶 - BáiChá est un produit unique du 白鹿村 -  BáiLùCūn qui se trouve dans le province du 四川 - SìChuān en Chine à environ 850 mètres d'altitude. Ce petit village ne couvre qu'une superficie de 5,8 kilomètres carrés et compte un peu plus de 1 300 habitants. Aucune industrie, son environnement est donc naturellement excellent et propice à la production agricole. Le 白鹿白茶 - BáiLù BáiChá provient de la famille des Lauracées plutôt que du Camellia sinensis. Il n'est pas le thé blanc que l'on connaisse dans les 6 familles de thé chiois. C'est une infusion que la population locale apprécie depuis un millier d'année, principalement produite dans ce village. L'arbre de ce thé pousse dans la montagne BáiLù et qui dégage le parfum unique des plantes Lauracées. Son infusion est de couleur rouge vif et a un retour sucré dans la bouche après son passage. Il est notamment bon pour les personnes habituées à manger des plats épicés car il a pour effet de nourrir la rate et l’estomac. Ce brevage est non-caféiné."
     },
-    {
-        "id": "perrinebol5",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_5-a.jpg",
-            "perrine_tasse_5-b.jpg",
-            "perrine_tasse_5-c.jpg"
-        ]
+    "prix": 18,
+    "poids": 0.025,
+    "quantité_produite": 10,
+    "producteur": {
+        "fr": "Monsieur 李 - Lǐ",
+        "en": "Mrs 李 - Lǐ"
     },
-    {
-        "id": "perrinebol7",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_7-a.jpg",
-            "perrine_tasse_7-b.jpg",
-            "perrine_tasse_7-c.jpg"
-        ]
+    "récolte": "printemps 2023",
+    "type": {
+        "fr": "blanc - 白茶 - BáiChá",
+        "en": "white - 白茶 - BáiChá"
     },
-    {
-        "id": "perrinebol8",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_8-a.jpg",
-            "perrine_tasse_8-b.jpg",
-            "perrine_tasse_8-c.jpg"
-        ]
+    "village": "白鹿村 -  BáiLùCūn",
+    "lieu": "四川 - SìChuān",
+    "photos": [
+        "BaiLu-BaiCha_1-a.jpg",
+        "BaiLu-BaiCha_1-b.jpg"
+    ]
+},
+{
+    "id": "lu1",
+    "titre": {
+        "en": "碧螺春 - BìLuóChūn",
+        "fr": "碧螺春 - BìLuóChūn"
     },
-    {
-        "id": "perrinebol10",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_10-a.jpg",
-            "perrine_tasse_10-b.jpg",
-            "perrine_tasse_10-c.jpg"
-        ]
+    "modification": "2023-08-28",
+    "création": "2023-08-28",
+    "catégorie": "cha",
+    "description": {
+        "en": "This 綠茶 - LǜChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
+        "fr": "Ce 綠茶 - LǜChá est l'un des deux thés verts taïwanais. Ici il s'agit du BìLuóChūn réalisé à partir du cultivar indigène de 三峽 - SānXiá ,le 青心柑仔 - Qīng Xīn Gān Zǐ.  Ce cultivar indigène donne une identité unique au niveau de l'arôme. La famille de Mr.李- Lǐ vivre dans le thé depuis des générations. Il a ses jardins de plantations à 三峽 - SānXiá et dans le mont 阿里山 Ālǐ Shān. C'est grâce à mon maître de QiGong que j'ai puisse le renctrer. Il fait parti de ma famille de thé depuis dix ans."
     },
-    {
-        "id": "perrinebol11",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_11-a.jpg",
-            "perrine_tasse_11-b.jpg",
-            "perrine_tasse_11-c.jpg"
-        ]
+    "prix": 18,
+    "poids": 0.025,
+    "quantité_produite": 10,
+    "producteur": {
+        "fr": "Monsieur  李- Lǐ",
+        "en": "Mrs 李- Lǐ "
     },
-    {
-        "id": "perrinebol12",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_12-a.jpg",
-            "perrine_tasse_12-b.jpg",
-            "perrine_tasse_12-c.jpg"
-        ]
+    "récolte": "printemps 2023",
+    "type": {
+        "fr": "vert - 綠茶 - LǜChá",
+        "en": "green - 綠茶 - LǜChá"
     },
-    {
-        "id": "perrinebol13",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_13-a.jpg",
-            "perrine_tasse_13-b.jpg",
-            "perrine_tasse_13-c.jpg"
-        ]
+    "village": "三峡 - SānXiá",
+    "lieu": "台灣 - TáiWān",
+    "photos": [
+        "BiLuoChun_1-a.jpg",
+        "BiLuoChun_1-b.jpg"
+    ]
+},
+{
+    "id": "lu2",
+    "titre": {
+        "en": "清明甘露 - QīngMíng GānLù",
+        "fr": "清明甘露 - QīngMíng GānLù"
     },
-    {
-        "id": "perrinebol14",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_14-a.jpg",
-            "perrine_tasse_14-b.jpg",
-            "perrine_tasse_14-c.jpg"
-        ]
+    "modification": "2023-08-28",
+    "création": "2023-08-28",
+    "catégorie": "cha",
+    "description": {
+        "en": "This 綠茶 - LǜChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
+        "fr": "Ce 綠茶 - LǜChá est produit dans le province du 四川 - SìChuān en Chine et plus exactement au  village de 拳石 -  QuánShí à 900m d'altitude. Le jardin de thé de M. 童 - Tóng est une forêt de thé, avec de nombreux vieux théiers. Ce thé vert a été cueilli le 5 avril de cette année. C'est pourquoi il a été nommé 清明甘露 - QīngMíng GānLù. QingMing est l'un des vingt-quatre termes solaires et aussi le jour du culte des ancêtres. GanLu signifie:le miellat. M. 童 - Tóng a réalisé ce thé pour commémorer ses ancêtres"
     },
-    {
-        "id": "perrinebol15",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_15-a.jpg",
-            "perrine_tasse_15-b.jpg",
-            "perrine_tasse_15-c.jpg"
-        ]
+    "prix": 18,
+    "poids": 0.025,
+    "quantité_produite": 10,
+    "producteur": {
+        "fr": "Monsieur  童 - Tóng",
+        "en": "Mrs 童 - Tóng"
     },
-    {
-        "id": "perrinebol16",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_16-a.jpg",
-            "perrine_tasse_16-b.jpg",
-            "perrine_tasse_16-c.jpg"
-        ]
+    "récolte": "printemps 2023",
+    "type": {
+        "fr": "vert - 綠茶 - LǜChá",
+        "en": "green - 綠茶 - LǜChá"
     },
-    {
-        "id": "perrinebol17",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_17-a.jpg",
-            "perrine_tasse_17-b.jpg",
-            "perrine_tasse_17-c.jpg"
-        ]
+    "village": "拳石 - Quán Shí",
+    "lieu": "四川 - SìChuān",
+    "photos": [
+        "QingMing-GanLu_1-a.jpg",
+        "QingMing-GanLu_1-b.jpg"
+    ]
+},
+ {
+    "id": "lu3",
+    "titre": {
+        "en": "白鹿綠茶 - BáiLù LǜChá",
+        "fr": "白鹿綠茶 - BáiLù LǜChá"
     },
-    {
-        "id": "perrinebol18",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_18-a.jpg",
-            "perrine_tasse_18-b.jpg",
-            "perrine_tasse_18-c.jpg"
-        ]
+    "modification": "2023-08-30",
+    "création": "2023-08-30",
+    "catégorie": "cha",
+    "description": {
+        "en": "This 綠茶 - LǜChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
+        "fr": "Ce 綠茶 - LǜChá est produit dans le province du 四川 - SìChuān en Chine et plus exactement au village de 白鹿村 -  BáiLùCūn qui se trouve à environ 850 mètres d'altitude. Il ne couvre qu'une superficie de 5,8 kilomètres carrés et compte un peu plus de 1 300 habitants. Aucune industrie, son environnement est donc naturellement excellent et propice à la production agricole."
     },
-    {
-        "id": "perrinebol20",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_20-a.jpg",
-            "perrine_tasse_20-b.jpg",
-            "perrine_tasse_20-c.jpg"
-        ]
+    "prix": 18,
+    "poids": 0.025,
+    "quantité_produite": 10,
+    "producteur": {
+        "fr": "Monsieur  李 - Lǐ",
+        "en": "Mrs 李 - Lǐ"
     },
-    {
-        "id": "perrinebol21",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_21-a.jpg",
-            "perrine_tasse_21-b.jpg",
-            "perrine_tasse_21-c.jpg"
-        ]
+    "récolte": "printemps 2023",
+    "type": {
+        "fr": "vert - 綠茶 - LǜChá",
+        "en": "green - 綠茶 - LǜChá"
     },
-    {
-        "id": "perrinebol22",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_22-a.jpg",
-            "perrine_tasse_22-b.jpg",
-            "perrine_tasse_22-c.jpg"
-        ]
+    "village": "白鹿村 -  BáiLùCūn",
+    "lieu": "四川 - SìChuān",
+    "photos": [
+        "BaiLu-LuCha_1-a.jpg",
+        "BaiLu-LuCha_1-b.jpg"
+    ]
+},
+{
+    "id": "hong1",
+    "titre": {
+        "en": "蜜香红茶 - MìXiāng HóngChá",
+        "fr": "蜜香红茶 - MìXiāng HóngChá"
     },
-    {
-        "id": "perrinebol23",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_23-a.jpg",
-            "perrine_tasse_23-b.jpg",
-            "perrine_tasse_23-c.jpg"
-        ]
+    "modification": "2023-05-22",
+    "création": "2023-05-22",
+    "catégorie": "cha",
+    "description": {
+        "en": "This 红茶 - HóngChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
+        "fr": "Ce 红茶 - HóngChá est le premier thé de Madame 张 - Zhāng jeune productrice de 65 ans. Ancienne directrice de l'école primaire de 三峡 - SānXiá, elle passe sa nouvelle vie dans les jardins de thé de ses amis producteurs. Son thé est sincère avec des petits défauts de jeunesse adorables."
     },
-    {
-        "id": "perrinebol24",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_24-a.jpg",
-            "perrine_tasse_24-b.jpg",
-            "perrine_tasse_24-c.jpg"
-        ]
+    "prix": 18,
+    "poids": 0.025,
+    "quantité_produite": 10,
+    "producteur": {
+        "fr": "Madame 张 - Zhāng",
+        "en": "Mrs 张 - Zhāng"
     },
-    {
-        "id": "perrinebol25",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_25-a.jpg",
-            "perrine_tasse_25-b.jpg",
-            "perrine_tasse_25-c.jpg"
-        ]
+    "récolte": "printemps 2023",
+    "type": {
+        "fr": "rouge - 红茶 - HóngChá",
+        "en": "red - 红茶 - HóngChá"
     },
-    {
-        "id": "perrinebol26",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_26-a.jpg",
-            "perrine_tasse_26-b.jpg",
-            "perrine_tasse_26-c.jpg"
-        ]
+    "village": "三峡 - SānXiá",
+    "lieu": "台灣 - TáiWān",
+    "photos": [
+        "HongCha_MiXiang_1-a.jpg",
+        "HongCha_MiXiang_1-b.jpg",
+        "conserve_1-c.jpg"
+    ]
+},
+{
+    "id": "hong2",
+    "titre": {
+        "en": "蜜香红茶 - MìXiāng HóngChá",
+        "fr": "蜜香红茶 - MìXiāng HóngChá"
     },
-    {
-        "id": "perrinebol27",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_27-a.jpg",
-            "perrine_tasse_27-b.jpg",
-            "perrine_tasse_27-c.jpg"
-        ]
+    "modification": "2023-08-31",
+    "création": "2023-08-31",
+    "catégorie": "cha",
+    "description": {
+        "en": "This 红茶 - HóngChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
+        "fr": "Ce 红茶 - HóngChá, thé rouge caractéristique par son arôme de miel est réalisé avec le cultivar 青心柑仔 - QīngXīnGānZǐ， un théier indigène unique de 三峡 - SānXiá. La famille de Monsieur Li cultive le thé depuis trois générations. En plus de son jardins de thé au district de 三峡 - SānXiá, à la périphérie de Taipei, Monsieur 李 - Lǐ a également un jardins de thé à 南投 - Nántóu, dans le centre de Taiwan. Je le connais depuis dix ans, et il a toujours fidèlement conservé son sérieux et sa sincérité dans la préparation du thé"
     },
-    {
-        "id": "manontas12",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2022-05-17",
-        "création": "2022-05-17",
-        "catégorie": "manon-clouzeau",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7,1 cm x 3,9 cm",
-        "poids": 0.035,
-        "capacité": "50 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "manon_tasse_12-a.jpg",
-            "manon_tasse_12-b.jpg",
-            "manon_tasse_12-c.jpg"
-        ]
+    "prix": 18,
+    "poids": 0.025,
+    "quantité_produite": 10,
+    "producteur": {
+        "fr": "Monsieur 李 - Lǐ",
+        "en": "Mrs  李 - Lǐ"
     },
-    {
-        "id": "jetheiere1",
-        "titre": {
-            "en": "Small glazed teapot",
-            "fr": "Petite théière émaillée"
-        },
-        "modification": "2021-02-27",
-        "création": "2022-02-27",
-        "catégorie": "je-le-potier",
-        "description": {
-            "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
-            "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
-        },
-        "prix": 142,
-        "poids": 0.12,
-        "capacité": "80 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "jerome_theiere_1-a.jpg",
-            "jerome_theiere_1-b.jpg",
-            "jerome_theiere_1-c.jpg",
-            "jerome_theiere_1-d.jpg",
-            "jerome_theiere_1-e.jpg"
-        ]
+    "récolte": "printemps 2023",
+    "type": {
+        "fr": "rouge - 红茶 - HóngChá",
+        "en": "red - 红茶 - HóngChá"
     },
-    {
-        "id": "jetheiere2",
-        "titre": {
-            "en": "Small teapot in raw clay",
-            "fr": "Petite théière en terre brute"
-        },
-        "modification": "2021-02-22",
-        "création": "2022-02-22",
-        "catégorie": "je-le-potier",
-        "description": {
-            "en": "Unique piece. Small teapot made from a very dense clay. This high quality stoneware is made in Germany. The porosity of this clay is 0,8%. The density of the clay limits the water temperature drop during the infusion. The pouring is fluid and fast.",
-            "fr": "Pièce unique. Petite théière fabriquée dans une argile très dense. Ce grès de grande qualité est réalisée en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide."
-        },
-        "prix": 132,
-        "poids": 0.12,
-        "capacité": "100 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "jerome_theiere_2-a.jpg",
-            "jerome_theiere_2-b.jpg",
-            "jerome_theiere_2-c.jpg",
-            "jerome_theiere_2-d.jpg",
-            "jerome_theiere_2-e.jpg"
-        ]
+    "village": "三峡 - SānXiá",
+    "lieu": "台灣 - TáiWān",
+    "photos": [
+        "MiXiang-HongCha_1-a.jpg",
+        "MiXiang-HongCha_1-b.jpg"
+    ]
+},
+{
+    "id": "hong3",
+    "titre": {
+        "en": "蜜香红茶 - MìXiāng HóngChá",
+        "fr": "蜜香红茶 - MìXiāng HóngChá"
     },
-    {
-        "id": "jetheiere3",
-        "titre": {
-            "en": "Small teapot in raw clay",
-            "fr": "Petite théière en terre brute"
-        },
-        "modification": "2021-02-22",
-        "création": "2022-02-22",
-        "catégorie": "je-le-potier",
-        "description": {
-            "en": "Unique piece. Small teapot made of Treigny stoneware, a soft natural clay. This teapot is not glazed and will acquire a unique patina over time. The pouring is fluid and fast.",
-            "fr": "Pièce unique. Petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide."
-        },
-        "prix": 132,
-        "poids": 0.13,
-        "capacité": "100 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "jerome_theiere_3-a.jpg",
-            "jerome_theiere_3-b.jpg",
-            "jerome_theiere_3-c.jpg",
-            "jerome_theiere_3-d.jpg",
-            "jerome_theiere_3-e.jpg",
-            "jerome_theiere_3-f.jpg"
-        ]
+    "modification": "2023-08-30",
+    "création": "2023-08-30",
+    "catégorie": "cha",
+    "description": {
+        "en": "This 红茶 - HóngChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
+        "fr": "Ce 红茶 - Ce thé rouge est réalisé par M. à partir d'une espèce indigène unique de mandarine Qingxin dans la région des Trois Gorges. Il a un arôme unique d’agrumes et de miel. M. Li est la troisième génération du district de Sanxia et il possède également des jardins de thé dans le comté de Nantou. M. Li et moi avons fait connaissance grâce à la présentation de mon professeur de qigong, et notre amitié dure près de dix ans.HóngChá est le premier thé de Madame 张 - Zhāng jeune productrice de 65 ans. Ancienne directrice de l'école primaire de 三峡 - SānXiá, elle passe sa nouvelle vie dans les jardins de thé de ses amis producteurs. Son thé est sincère avec des petits défauts de jeunesse adorables."
     },
-    {
-        "id": "jetheiere4",
-        "titre": {
-            "en": "Small glazed teapot",
-            "fr": "Petite théière émaillée"
-        },
-        "modification": "2021-02-27",
-        "création": "2022-02-27",
-        "catégorie": "je-le-potier",
-        "description": {
-            "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
-            "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
-        },
-        "prix": 142,
-        "poids": 0.12,
-        "capacité": "80 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "jerome_theiere_4-a.jpg",
-            "jerome_theiere_4-b.jpg",
-            "jerome_theiere_4-c.jpg",
-            "jerome_theiere_4-d.jpg",
-            "jerome_theiere_4-e.jpg"
-        ]
+    "prix": 18,
+    "poids": 0.025,
+    "quantité_produite": 10,
+    "producteur": {
+        "fr": "Monsieur 李 - Lǐ",
+        "en": "Mr 李 - LǐZhāng"
     },
-    {
-        "id": "melles-ceramiquega1",
-        "titre": {
-            "en": "蓋碗 - GàiWǎn",
-            "fr": "蓋碗 - GàiWǎn"
-        },
-        "modification": "2022-05-02",
-        "création": "2022-05-02",
-        "catégorie": "mademoiselles-ceramique",
-        "description": {
-            "en": "White porcelain GàiWǎn, made in Montpellier.",
-            "fr": "GàiWǎn en porcelaine blanche. Fabriqué à Montpellier"
-        },
-        "prix": 60.00,
-        "poids": 0.215,
-        "capacité": "90 ml",
-        "quantité_produite": 3,
-        "photos": [
-            "melles-ceramique_gaiwan_1-a.jpg",
-            "melles-ceramique_gaiwan_1-b.jpg",
-            "melles-ceramique_gaiwan_1-c.jpg",
-            "melles-ceramique_gaiwan_1-d.jpg"
-        ]
+    "récolte": "printemps 2023",
+    "type": {
+        "fr": "rouge - 红茶 - HóngChá",
+        "en": "red - 红茶 - HóngChá"
     },
-    {
-        "id": "melles-ceramiquetheiere1",
-        "titre": {
-            "en": "Small teapot in raw clay",
-            "fr": "Petite théière en terre brute"
-        },
-        "modification": "2022-05-02",
-        "création": "2022-05-02",
-        "catégorie": "mademoiselles-ceramique",
-        "description": {
-            "en": "井蘭-JǐngLán teapot made of 紅泥 - HóngNí (red clay) from Yixing, turned by hand on a potter's wheel. Made in Montpellier. Unique piece",
-            "fr": "Théière 井蘭 - JǐngLán en 紅泥 - HóngNí (argile rouge) de Yixing, tournée à la main à Montpellier. Pièce unique."
-        },
-        "prix": 200,
-        "poids": 0.235,
-        "capacité": "100 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "melles-ceramique_theiere_1-a.jpg",
-            "melles-ceramique_theiere_1-b.jpg",
-            "melles-ceramique_theiere_1-c.jpg",
-            "melles-ceramique_theiere_1-d.jpg",
-            "melles-ceramique_theiere_1-e.jpg",
-            "melles-ceramique_theiere_1-f.jpg"
-        ]
-    }
+    "village": "三峡 - SānXiá",
+    "lieu": "台灣 - TáiWān",
+    "photos": [
+        "HongCha_MiXiang_1-a.jpg",
+        "HongCha_MiXiang_1-b.jpg",
+        "conserve_1-c.jpg"
+    ]
+},
+{
+    "id": "hong4",
+    "titre": {
+        "en": "白鹿白茶 - BáiLù BáiChá",
+        "fr": "白鹿白茶 - BáiLù BáiChá"
+    },
+    "modification": "2023-08-30",
+    "création": "2023-08-30",
+    "catégorie": "cha",
+    "description": {
+        "en": "This 白茶 - BáiChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
+        "fr": "Ce 白茶 - BáiChá est un produit unique du 白鹿村 -  BáiLùCūn qui se trouve dans le province du 四川 - SìChuān en Chine à environ 850 mètres d'altitude. Ce petit village ne couvre qu'une superficie de 5,8 kilomètres carrés et compte un peu plus de 1 300 habitants. Aucune industrie, son environnement est donc naturellement excellent et propice à la production agricole. Le 白鹿白茶 - BáiLù BáiChá provient de la famille des Lauracées plutôt que du Camellia sinensis. Il n'est pas le thé blanc que l'on connaisse dans les 6 familles de thé chiois. C'est une infusion que la population locale apprécie depuis un millier d'année, principalement produite dans ce village. L'arbre de ce thé pousse dans la montagne BáiLù et qui dégage le parfum unique des plantes Lauracées. Son infusion est de couleur rouge vif et a un retour sucré dans la bouche après son passage. Il est notamment bon pour les personnes habituées à manger des plats épicés car il a pour effet de nourrir la rate et l’estomac. Ce brevage est non-caféiné."
+    },
+    "prix": 18,
+    "poids": 0.025,
+    "quantité_produite": 10,
+    "producteur": {
+        "fr": "Monsieur  李 - Lǐ",
+        "en": "Mrs 李 - Lǐ"
+    },
+    "récolte": "printemps 2023",
+    "type": {
+        "fr": "blanc - 白茶 - BáiChá",
+        "en": "white - 白茶 - BáiChá"
+    },
+    "village": "白鹿村 -  BáiLùCūn",
+    "lieu": "四川 - SìChuān",
+    "photos": [
+        "BaiLu-BaiCha_1-a.jpg",
+        "BaiLu-BaiCha_1-b.jpg"
+    ]
+},
+{
+    "id": "wu1",
+    "titre": {
+        "en": "梨山高山茶 - LíShān GāoShānChá",
+        "fr": "梨山高山茶 - LíShān GāoShānChá"
+    },
+    "modification": "2023-09-01",
+    "création": "2023-09-01",
+    "catégorie": "cha",
+    "description": {
+        "en": "This 高山茶 - GāoShānChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
+        "fr": "Ce 高山茶 - GāoShānChá thé de haute montagne est l'un des célèbres thés wulong de Taiwan. Lishan est situé à Taichung et a une altitude moyenne de 2 000 mètres. Les principales ici sont le cultivars ici sont 青心烏龍 - QīngXīn WūLóng et 金萱 - JīnXuān, avec seulement deux récoltes chaque année.thé bleu-vert  est l'un des célèbres thés Wulong de Taiwan. Ce thé de haute montagne  est produit dans la zone de 梨山 - LíShān, à plus de 2 000 mètres d'altitude. Il n'y a que deux récoltes par an. En raison de la grande différence de température entre le jour et la nuit , le thé pousse lentement et les feuilles sont plus épaisses que celles de la plate-forme, qui est beaucoup plus résiste au infusion. La durée d'ensoleillement est courte et dans les montagnes et des nuages et de la brume persistants, donc la teneur en catéchines est faible il n'y a donc pas d'astringence."
+    },
+    "prix": 18,
+    "poids": 0.025,
+    "quantité_produite": 10,
+    "producteur": {
+        "fr": "Monsieur 李 - Lǐ",
+        "en": "Mrs  李 - Lǐ"
+    },
+    "récolte": "printemps 2023",
+    "type": {
+        "fr": "bleu-vert - 烏龍茶 - WūLóngChá",
+        "en": "bleu-vert - 烏龍茶 - WūLóngChá"
+    },
+    "village": "臺中 - TáiZhōng",
+    "lieu": "台灣 - TáiWān",
+    "photos": [
+        "LiShan-GaoShan_1-a.jpg",
+        "LiShan-GaoShan_1-b.jpg"
+    ]
+
+},
+{
+    "id": "wu2",
+    "titre": {
+        "en": "凍頂烏龍 - DòngDǐng WūLóng",
+        "fr": "凍頂烏龍 - DòngDǐng WūLóng"
+    },
+    "modification": "2023-08-31",
+    "création": "2023-08-31",
+    "catégorie": "cha",
+    "description": {
+        "en": "This 烏龍茶 - WūLóngChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
+        "fr": "Ce 烏龍茶 - WūLóngChá thé bleu-vert  est l'un des célèbres thés Wulong de Taiwan. Ce 凍頂烏龍 - DòngDǐng WūLóng de M. Li est cultivé dans la montagne  阿里山 - ĀLǐShān et réalisé selon des méthodes traditionnelles. Ce thé nous transporte dans les souvenirs des salons de thé de Taiwan dans les années 80'.  La famille de Monsieur Li cultive le thé depuis trois générations. En plus de son jardins de thé au district de 三峡 - SānXiá, à la périphérie de Taipei, Monsieur 李 - Lǐ a également un jardins de thé à 南投 - Nántóu, dans le centre de Taiwan. Je le connais depuis dix ans, et il a toujours fidèlement conservé son sérieux et sa sincérité dans la préparation du thé"
+    },
+    "prix": 18,
+    "poids": 0.025,
+    "quantité_produite": 10,
+    "producteur": {
+        "fr": "Monsieur 李 - Lǐ",
+        "en": "Mrs  李 - Lǐ"
+    },
+    "récolte": "printemps 2023",
+    "type": {
+        "fr": "bleu-vert - 烏龍茶 - WūLóngChá",
+        "en": "bleu-vert - 烏龍茶 - WūLóngChá"
+    },
+    "village": "南投 - NánTóu",
+    "lieu": "台灣 - TáiWān",
+    "photos": [
+        "DongDing-WuLong_1-a.jpg",
+        "DongDing-WuLong_1-b.jpg"
+    ]
+},
+{
+    "id": "ga2",
+    "titre": {
+        "en": "Basic GàiWǎn",
+        "fr": "GàiWǎn basique"
+    },
+    "modification": "2021-04-10",
+    "création": "2021-04-10",
+    "catégorie": "gaiwan",
+    "description": {
+        "en": "White basic porcelain GàiWǎn.",
+        "fr": "GàiWǎn basique en porcelaine blanche."
+    },
+    "prix": 8,
+    "poids": 0.12,
+    "capacité": "70 ml",
+    "quantité_produite": 8,
+    "photos": [
+        "gaiwan_2-a.jpg",
+        "gaiwan_2-b.jpg"
+    ]
+},
+{
+    "id": "sdv2",
+    "titre": {
+        "en": "Travel set",
+        "fr": "Set de voyage"
+    },
+    "modification": "2021-04-10",
+    "création": "2021-04-10",
+    "catégorie": "gaiwan",
+    "description": {
+        "en": "This beginners kit includes the essentiels to prepare authentic tea : a 蓋碗 - GàiWǎn, a 茶海 - CháHǎi and three tea bowls (茶杯 - CháBēi). It is the perfect travel companion thanks to its protective cover.",
+        "fr": "Ce kit de démarrage comprend les éléments essentiels à la préparation du thé authentique : un 蓋碗 - GàiWǎn, un 茶海 - CháHǎi et trois bols à thé (茶杯 - CháBēi). C'est aussi le compagnon de voyage idéal grâce à sa housse de protection."
+    },
+    "prix": 45,
+    "poids": 0.45,
+    "capacité": "110 ml",
+    "quantité_produite": 16,
+    "photos": [
+        "set-de-voyage_1-a.jpg",
+        "set-de-voyage_1-b.jpg",
+        "set-de-voyage_1-c.jpg",
+        "set-de-voyage_1-d.jpg"
+    ]
+},
+{
+    "id": "th3",
+    "titre": {
+        "en": "遍訪古 - BiànFǎngGǔ teapot",
+        "fr": "Théière 遍訪古 - BiànFǎngGǔ"
+    },
+    "modification": "2021-04-10",
+    "création": "2021-04-10",
+    "catégorie": "chahu",
+    "description": {
+        "en": "This teapot has a 遍訪古 - BiànFǎngGǔ shape. It was made from 黑金鋼沙 - HēiJīnGāngShā, a mix of two clays: 紫泥 - ZǐNí and 寶藍朱泥 - BǎolánZhūNí.",
+        "fr": "Cette théière est de forme 遍訪古 - BiànFǎngGǔ. Elle a été fabriquée à partir d'un mélange appelé 黑金鋼沙 - HēiJīnGāngShā, composé de deux argiles : 紫泥 - ZǐNí et 寶藍朱泥 - BǎolánZhūNí."
+    },
+    "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
+    "producteur": "YanLi",
+    "prix": 89,
+    "poids": 0.18,
+    "capacité": "130 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "theiere_3-a.jpg",
+        "theiere_3-b.jpg",
+        "theiere_3-c.jpg",
+        "theiere_3-d.jpg"
+    ]
+},
+{
+    "id": "th4",
+    "titre": {
+        "en": "西施 - XīShī teapot",
+        "fr": "Théière 西施 - XīShī"
+    },
+    "modification": "2021-04-10",
+    "création": "2021-04-10",
+    "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
+    "catégorie": "chahu",
+    "description": {
+        "en": "This 宜興-YíXìng red clay teapot of 西施-XīShī shape made in 半手工-BànShǒuGōng mode, i.e. semi-manually, using molds.",
+        "fr": "Cette théière en argile rouge du 宜興 - YíXìng de forme 西施 - XīShī fabriquée en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules."
+    },
+    "prix": 55,
+    "poids": 0.185,
+    "capacité": "200 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "theiere_4-a.jpg",
+        "theiere_4-b.jpg",
+        "theiere_4-c.jpg",
+        "theiere_4-d.jpg"
+    ]
+},
+{
+    "id": "th9",
+    "titre": {
+        "en": "三足乳鼎 - SānZúRǔDǐng teapot",
+        "fr": "Théière 三足乳鼎 - SānZúRǔDǐng"
+    },
+    "modification": "2021-06-01",
+    "création": "2021-06-01",
+    "origine": "臺灣 - Táiwān",
+    "catégorie": "chahu",
+    "description": {
+        "en": "This 三足乳鼎 - SānZúRǔDǐng shaped teapot was made in 臺灣 - Táiwān in 半手工 - BànShǒuGōng mode, which means semi-manual, using molds. It bears an inscription related to Buddhist culture: 觀自在 - GuānZìZài which invites to be at peace with nature.",
+        "fr": "Cette théière de forme 三足乳鼎 - SānZúRǔDǐng fabriquée à 臺灣 - Táiwān en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules. Elle porte une inscription liée à la culture bouddhiste : 觀自在 - GuānZìZài qui invite à être en paix avec la nature."
+    },
+    "prix": 80,
+    "poids": 0.135,
+    "capacité": "220 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "theiere_9-a.jpg",
+        "theiere_9-b.jpg",
+        "theiere_9-c.jpg",
+        "theiere_9-d.jpg",
+        "theiere_9-e.jpg",
+        "theiere_9-f.jpg"
+    ]
+},
+{
+    "id": "perrinebol1",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_1-a.jpg",
+        "perrine_tasse_1-b.jpg",
+        "perrine_tasse_1-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol2",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_2-a.jpg",
+        "perrine_tasse_2-b.jpg",
+        "perrine_tasse_2-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol3",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_3-a.jpg",
+        "perrine_tasse_3-b.jpg",
+        "perrine_tasse_3-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol4",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_4-a.jpg",
+        "perrine_tasse_4-b.jpg",
+        "perrine_tasse_4-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol5",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_5-a.jpg",
+        "perrine_tasse_5-b.jpg",
+        "perrine_tasse_5-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol7",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_7-a.jpg",
+        "perrine_tasse_7-b.jpg",
+        "perrine_tasse_7-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol8",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_8-a.jpg",
+        "perrine_tasse_8-b.jpg",
+        "perrine_tasse_8-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol10",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_10-a.jpg",
+        "perrine_tasse_10-b.jpg",
+        "perrine_tasse_10-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol11",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_11-a.jpg",
+        "perrine_tasse_11-b.jpg",
+        "perrine_tasse_11-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol12",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_12-a.jpg",
+        "perrine_tasse_12-b.jpg",
+        "perrine_tasse_12-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol13",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_13-a.jpg",
+        "perrine_tasse_13-b.jpg",
+        "perrine_tasse_13-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol14",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_14-a.jpg",
+        "perrine_tasse_14-b.jpg",
+        "perrine_tasse_14-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol15",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_15-a.jpg",
+        "perrine_tasse_15-b.jpg",
+        "perrine_tasse_15-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol16",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_16-a.jpg",
+        "perrine_tasse_16-b.jpg",
+        "perrine_tasse_16-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol17",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_17-a.jpg",
+        "perrine_tasse_17-b.jpg",
+        "perrine_tasse_17-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol18",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_18-a.jpg",
+        "perrine_tasse_18-b.jpg",
+        "perrine_tasse_18-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol20",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_20-a.jpg",
+        "perrine_tasse_20-b.jpg",
+        "perrine_tasse_20-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol21",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_21-a.jpg",
+        "perrine_tasse_21-b.jpg",
+        "perrine_tasse_21-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol22",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_22-a.jpg",
+        "perrine_tasse_22-b.jpg",
+        "perrine_tasse_22-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol23",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_23-a.jpg",
+        "perrine_tasse_23-b.jpg",
+        "perrine_tasse_23-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol24",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_24-a.jpg",
+        "perrine_tasse_24-b.jpg",
+        "perrine_tasse_24-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol25",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_25-a.jpg",
+        "perrine_tasse_25-b.jpg",
+        "perrine_tasse_25-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol26",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_26-a.jpg",
+        "perrine_tasse_26-b.jpg",
+        "perrine_tasse_26-c.jpg"
+    ]
+},
+{
+    "id": "perrinebol27",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-05-17",
+    "création": "2023-05-17",
+    "catégorie": "perrine-pottiez",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.025,
+    "capacité": "30 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "perrine_tasse_27-a.jpg",
+        "perrine_tasse_27-b.jpg",
+        "perrine_tasse_27-c.jpg"
+    ]
+},
+{
+    "id": "manontas12",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2022-05-17",
+    "création": "2022-05-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 20,
+    "dimension": "7,1 cm x 3,9 cm",
+    "poids": 0.035,
+    "capacité": "50 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_12-a.jpg",
+        "manon_tasse_12-b.jpg",
+        "manon_tasse_12-c.jpg"
+    ]
+},
+{
+    "id": "jetheiere1",
+    "titre": {
+        "en": "Small glazed teapot",
+        "fr": "Petite théière émaillée"
+    },
+    "modification": "2021-02-27",
+    "création": "2022-02-27",
+    "catégorie": "je-le-potier",
+    "description": {
+        "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
+        "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
+    },
+    "prix": 142,
+    "poids": 0.12,
+    "capacité": "80 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "jerome_theiere_1-a.jpg",
+        "jerome_theiere_1-b.jpg",
+        "jerome_theiere_1-c.jpg",
+        "jerome_theiere_1-d.jpg",
+        "jerome_theiere_1-e.jpg"
+    ]
+},
+{
+    "id": "jetheiere2",
+    "titre": {
+        "en": "Small teapot in raw clay",
+        "fr": "Petite théière en terre brute"
+    },
+    "modification": "2021-02-22",
+    "création": "2022-02-22",
+    "catégorie": "je-le-potier",
+    "description": {
+        "en": "Unique piece. Small teapot made from a very dense clay. This high quality stoneware is made in Germany. The porosity of this clay is 0,8%. The density of the clay limits the water temperature drop during the infusion. The pouring is fluid and fast.",
+        "fr": "Pièce unique. Petite théière fabriquée dans une argile très dense. Ce grès de grande qualité est réalisée en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide."
+    },
+    "prix": 132,
+    "poids": 0.12,
+    "capacité": "100 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "jerome_theiere_2-a.jpg",
+        "jerome_theiere_2-b.jpg",
+        "jerome_theiere_2-c.jpg",
+        "jerome_theiere_2-d.jpg",
+        "jerome_theiere_2-e.jpg"
+    ]
+},
+{
+    "id": "jetheiere3",
+    "titre": {
+        "en": "Small teapot in raw clay",
+        "fr": "Petite théière en terre brute"
+    },
+    "modification": "2021-02-22",
+    "création": "2022-02-22",
+    "catégorie": "je-le-potier",
+    "description": {
+        "en": "Unique piece. Small teapot made of Treigny stoneware, a soft natural clay. This teapot is not glazed and will acquire a unique patina over time. The pouring is fluid and fast.",
+        "fr": "Pièce unique. Petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide."
+    },
+    "prix": 132,
+    "poids": 0.13,
+    "capacité": "100 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "jerome_theiere_3-a.jpg",
+        "jerome_theiere_3-b.jpg",
+        "jerome_theiere_3-c.jpg",
+        "jerome_theiere_3-d.jpg",
+        "jerome_theiere_3-e.jpg",
+        "jerome_theiere_3-f.jpg"
+    ]
+},
+{
+    "id": "jetheiere4",
+    "titre": {
+        "en": "Small glazed teapot",
+        "fr": "Petite théière émaillée"
+    },
+    "modification": "2021-02-27",
+    "création": "2022-02-27",
+    "catégorie": "je-le-potier",
+    "description": {
+        "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
+        "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
+    },
+    "prix": 142,
+    "poids": 0.12,
+    "capacité": "80 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "jerome_theiere_4-a.jpg",
+        "jerome_theiere_4-b.jpg",
+        "jerome_theiere_4-c.jpg",
+        "jerome_theiere_4-d.jpg",
+        "jerome_theiere_4-e.jpg"
+    ]
+},
+{
+    "id": "melles-ceramiquega1",
+    "titre": {
+        "en": "蓋碗 - GàiWǎn",
+        "fr": "蓋碗 - GàiWǎn"
+    },
+    "modification": "2022-05-02",
+    "création": "2022-05-02",
+    "catégorie": "mademoiselles-ceramique",
+    "description": {
+        "en": "White porcelain GàiWǎn, made in Montpellier.",
+        "fr": "GàiWǎn en porcelaine blanche. Fabriqué à Montpellier"
+    },
+    "prix": 60.00,
+    "poids": 0.215,
+    "capacité": "90 ml",
+    "quantité_produite": 3,
+    "photos": [
+        "melles-ceramique_gaiwan_1-a.jpg",
+        "melles-ceramique_gaiwan_1-b.jpg",
+        "melles-ceramique_gaiwan_1-c.jpg",
+        "melles-ceramique_gaiwan_1-d.jpg"
+    ]
+},
+{
+    "id": "melles-ceramiquetheiere1",
+    "titre": {
+        "en": "Small teapot in raw clay",
+        "fr": "Petite théière en terre brute"
+    },
+    "modification": "2022-05-02",
+    "création": "2022-05-02",
+    "catégorie": "mademoiselles-ceramique",
+    "description": {
+        "en": "井蘭-JǐngLán teapot made of 紅泥 - HóngNí (red clay) from Yixing, turned by hand on a potter's wheel. Made in Montpellier. Unique piece",
+        "fr": "Théière 井蘭 - JǐngLán en 紅泥 - HóngNí (argile rouge) de Yixing, tournée à la main à Montpellier. Pièce unique."
+    },
+    "prix": 200,
+    "poids": 0.235,
+    "capacité": "100 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "melles-ceramique_theiere_1-a.jpg",
+        "melles-ceramique_theiere_1-b.jpg",
+        "melles-ceramique_theiere_1-c.jpg",
+        "melles-ceramique_theiere_1-d.jpg",
+        "melles-ceramique_theiere_1-e.jpg",
+        "melles-ceramique_theiere_1-f.jpg"
+    ]
+}
 ]
