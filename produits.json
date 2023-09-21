@@ -153,9 +153,9 @@
     "quantité_produite": 3,
     "producteur": "Monsieur 李 - Lǐ",
     "récolte": "automne 2021",
-    "type": "blanc - 白茶 - BáiChá",
+    "type": "白茶 - BáiChá",
     "village": "三峡 - SānXiá",
-    "lieu": "台灣 - TáiWān",
+    "province": "台灣 - TáiWān",
     "photos": [
         "BaiCha-LiGuanKuan_1-a.jpg",
         "BaiCha-LiGuanKuan_1-a.jpg",
@@ -172,8 +172,8 @@
     "création": "2023-08-30",
     "catégorie": "cha",
     "description": {
-        "en": "This 白茶 - BáiChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
-        "fr": "Ce 白茶 - BáiChá est un produit unique du 白鹿村 -  BáiLùCūn qui se trouve dans le province du 四川 - SìChuān en Chine à environ 850 mètres d'altitude. Ce petit village ne couvre qu'une superficie de 5,8 kilomètres carrés et compte un peu plus de 1 300 habitants. Aucune industrie, son environnement est donc naturellement excellent et propice à la production agricole. Le 白鹿白茶 - BáiLù BáiChá provient de la famille des Lauracées plutôt que du Camellia sinensis. Il n'est pas le thé blanc que l'on connaisse dans les 6 familles de thé chiois. C'est une infusion que la population locale apprécie depuis un millier d'année, principalement produite dans ce village. L'arbre de ce thé pousse dans la montagne BáiLù et qui dégage le parfum unique des plantes Lauracées. Son infusion est de couleur rouge vif et a un retour sucré dans la bouche après son passage. Il est notamment bon pour les personnes habituées à manger des plats épicés car il a pour effet de nourrir la rate et l’estomac. Ce brevage est non-caféiné."
+        "en": "The 白鹿白茶 - BáiLù BáiChá comes from the Lauraceae family; it is not tea and does not contain caffeine. It is produced in 白鹿村 - BáiLùCūn in 四川 - SìChuān at an elevation of about 850 meters. This small village has just over 1,300 inhabitants and no industry. It's an infusion that the local population has enjoyed for a thousand years. The tree grows in the 白鹿 - BáiLù mountain and emits the unique fragrance of Lauraceae plants. Its infusion is bright red and has a sweet aftertaste. It is especially recommended for people accustomed to eating spicy foods as it has the effect of nourishing the spleen and stomach.",
+        "fr": "Le 白鹿白茶 - BáiLù BáiChá provient de la famille des Lauracées ce n'est pas du thé et il ne contient pas de caféine. Il est produit à 白鹿村 - BáiLùCūn dans le 四川 - SìChuān à environ 850 mètres d'altitude. Ce petit village compte un peu plus de 1 300 habitants sans aucune industrie. C'est une infusion que la population locale apprécie depuis un millier d'années. L'arbre pousse dans la montagne 白鹿 - BáiLù et dégage le parfum unique des plantes lauracées. Son infusion est rouge vif et a un retour sucré dans la bouche. Il est notamment indiqué pour les personnes habituées à manger des plats épicés car il a pour effet de nourrir la rate et l’estomac."
     },
     "prix": 18,
     "poids": 0.025,
@@ -185,7 +185,8 @@
     "récolte": "printemps 2023",
     "type": "",
     "village": "白鹿村 -  BáiLùCūn",
-    "lieu": "四川 - SìChuān",
+    "altitude": "850 m",
+    "province": "四川 - SìChuān",
     "photos": [
         "BaiLu-BaiCha_1-a.jpg",
         "BaiLu-BaiCha_1-b.jpg"
@@ -212,9 +213,10 @@
         "en": "Mrs 李- Lǐ "
     },
     "récolte": "printemps 2023",
-    "type": "vert - 綠茶 - LǜChá",
+    "cultivar": "青心柑仔 - QīngXīn GānZǐ",
+    "type": "綠茶 - LǜChá",
     "village": "三峡 - SānXiá",
-    "lieu": "台灣 - TáiWān",
+    "province": "台灣 - TáiWān",
     "photos": [
         "BiLuoChun_1-a.jpg",
         "BiLuoChun_1-b.jpg"
@@ -241,9 +243,10 @@
         "en": "Mrs 童 - Tóng"
     },
     "récolte": "printemps 2023",
-    "type": "vert - 綠茶 - LǜChá",
+    "altitude": "900m",
+    "type": "綠茶 - LǜChá",
     "village": "拳石 - Quán Shí",
-    "lieu": "四川 - SìChuān",
+    "province": "四川 - SìChuān",
     "photos": [
         "QingMing-GanLu_1-a.jpg",
         "QingMing-GanLu_1-b.jpg"
@@ -270,9 +273,9 @@
         "en": "Mrs 李 - Lǐ"
     },
     "récolte": "printemps 2023",
-    "type": "vert - 綠茶 - LǜChá",
+    "type": "綠茶 - LǜChá",
     "village": "白鹿村 -  BáiLùCūn",
-    "lieu": "四川 - SìChuān",
+    "province": "四川 - SìChuān",
     "photos": [
         "BaiLu-LuCha_1-a.jpg",
         "BaiLu-LuCha_1-b.jpg"
@@ -299,9 +302,9 @@
         "en": "Mr 李 - LǐZhāng"
     },
     "récolte": "printemps 2023",
-    "type": "rouge - 红茶 - HóngChá",
+    "type": "红茶 - HóngChá",
     "village": "三峡 - SānXiá",
-    "lieu": "台灣 - TáiWān",
+    "province": "台灣 - TáiWān",
     "photos": [
         "HongCha_MiXiang_1-a.jpg",
         "HongCha_MiXiang_1-b.jpg",
@@ -329,9 +332,10 @@
         "en": "Mrs  李 - Lǐ"
     },
     "récolte": "printemps 2023",
-    "type": "bleu-vert - 烏龍茶 - WūLóngChá",
+    "type": "青茶 - QīngChá",
+    "altitude": "2000m",
     "village": "臺中 - TáiZhōng",
-    "lieu": "台灣 - TáiWān",
+    "province": "台灣 - TáiWān",
     "photos": [
         "LiShan-GaoShan_1-a.jpg",
         "LiShan-GaoShan_1-b.jpg"
@@ -349,7 +353,7 @@
     "catégorie": "cha",
     "description": {
         "en": "This 烏龍茶 - WūLóngChá is the first tea of 65-year-old Madame 张 - Zhāng, a young producer. A former headmistress of 三峡 - SānXiá Primary School, she spends her new life in the tea gardens of her producer friends. Her tea is sincere with adorable little flaws of youth.",
-        "fr": "Ce 烏龍茶 - WūLóngChá thé bleu-vert  est l'un des célèbres thés Wulong de Taiwan. Ce 凍頂烏龍 - DòngDǐng WūLóng de M. Li est cultivé dans la montagne  阿里山 - ĀLǐShān et réalisé selon des méthodes traditionnelles. Ce thé nous transporte dans les souvenirs des salons de thé de Taiwan dans les années 80'.  La famille de Monsieur Li cultive le thé depuis trois générations. En plus de son jardins de thé au district de 三峡 - SānXiá, à la périphérie de Taipei, Monsieur 李 - Lǐ a également un jardins de thé à 南投 - Nántóu, dans le centre de Taiwan. Je le connais depuis dix ans, et il a toujours fidèlement conservé son sérieux et sa sincérité dans la préparation du thé"
+        "fr": "Ce 烏龍茶 - WūLóngChá  est l'un des célèbres thés Wulong de Taiwan. Ce 凍頂烏龍 - DòngDǐng WūLóng de M. Li est cultivé dans la montagne  阿里山 - ĀLǐShān et réalisé selon des méthodes traditionnelles. Ce thé nous transporte dans les souvenirs des salons de thé de Taiwan dans les années 80'.  La famille de Monsieur Li cultive le thé depuis trois générations. En plus de son jardins de thé au district de 三峡 - SānXiá, à la périphérie de Taipei, Monsieur 李 - Lǐ a également un jardins de thé à 南投 - Nántóu, dans le centre de Taiwan. Je le connais depuis dix ans, et il a toujours fidèlement conservé son sérieux et sa sincérité dans la préparation du thé"
     },
     "prix": 18,
     "poids": 0.025,
@@ -359,9 +363,9 @@
         "en": "Mrs  李 - Lǐ"
     },
     "récolte": "printemps 2023",
-    "type": "bleu-vert - 烏龍茶 - WūLóngChá",
+    "type": "青茶 - QīngChá",
     "village": "南投 - NánTóu",
-    "lieu": "台灣 - TáiWān",
+    "province": "台灣 - TáiWān",
     "photos": [
         "DongDing-WuLong_1-a.jpg",
         "DongDing-WuLong_1-b.jpg"
