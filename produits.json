@@ -136,7 +136,7 @@
     ]
 },
 {
-    "id": "bai1",
+    "id": "baiA1",
     "titre": {
         "en": "白茶 - BáiChá",
         "fr": "白茶 - BáiChá"
@@ -163,7 +163,7 @@
     ]
 },
 {
-    "id": "bai2",
+    "id": "baiA2",
     "titre": {
         "en": "白鹿白茶 - BáiLù BáiChá",
         "fr": "白鹿白茶 - BáiLù BáiChá"
@@ -193,7 +193,7 @@
     ]
 },
 {
-    "id": "lu1",
+    "id": "luA1",
     "titre": {
         "en": "碧螺春 - BìLuóChūn",
         "fr": "碧螺春 - BìLuóChūn"
@@ -223,7 +223,7 @@
     ]
 },
 {
-    "id": "lu2",
+    "id": "luA2",
     "titre": {
         "en": "清明甘露 - QīngMíng GānLù",
         "fr": "清明甘露 - QīngMíng GānLù"
@@ -253,7 +253,7 @@
     ]
 },
  {
-    "id": "lu3",
+    "id": "luA3",
     "titre": {
         "en": "白鹿綠茶 - BáiLù LǜChá",
         "fr": "白鹿綠茶 - BáiLù LǜChá"
@@ -282,7 +282,7 @@
     ]
 },
 {
-    "id": "hong1",
+    "id": "hongA1",
     "titre": {
         "en": "蜜香红茶 - MìXiāng HóngChá",
         "fr": "蜜香红茶 - MìXiāng HóngChá"
@@ -312,7 +312,7 @@
     ]
 },
 {
-    "id": "wu1",
+    "id": "wuA1",
     "titre": {
         "en": "梨山高山茶 - LíShān GāoShānChá",
         "fr": "梨山高山茶 - LíShān GāoShānChá"
@@ -343,7 +343,7 @@
 
 },
 {
-    "id": "wu2",
+    "id": "wuA2",
     "titre": {
         "en": "凍頂烏龍 - DòngDǐng WūLóng",
         "fr": "凍頂烏龍 - DòngDǐng WūLóng"
@@ -1073,6 +1073,75 @@
     ]
 },
 {
+    "id": "manontasA1",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A1-a.jpg",
+        "manon_tasse_A1-b.jpg"
+    ]
+},
+{
+    "id": "manontasA2",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A2-a.jpg",
+        "manon_tasse_A2-b.jpg"
+    ]
+},
+{
+    "id": "manontasA3",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A3-a.jpg",
+        "manon_tasse_A3-b.jpg"
+    ]
+},
+{
     "id": "manontas12",
     "titre": {
         "en": "茶杯 - CháBēi (small tea bowl)",
@@ -1144,6 +1213,897 @@
         "jerome_theiere_2-c.jpg",
         "jerome_theiere_2-d.jpg",
         "jerome_theiere_2-e.jpg"
+    ]
+},
+{
+    "id": "manontasA4",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A4-a.jpg",
+        "manon_tasse_A4-b.jpg"
+    ]
+},
+{
+    "id": "manontasA5",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A5-a.jpg",
+        "manon_tasse_A5-b.jpg"
+    ]
+},
+{
+    "id": "manontasA6",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A6-a.jpg",
+        "manon_tasse_A6-b.jpg"
+    ]
+},
+{
+    "id": "manontasA7",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A7-a.jpg",
+        "manon_tasse_A7-b.jpg"
+    ]
+},
+{
+    "id": "manontasA8",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A8-a.jpg",
+        "manon_tasse_A8-b.jpg"
+    ]
+},
+{
+    "id": "manontasA9",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A9-a.jpg",
+        "manon_tasse_A9-b.jpg"
+    ]
+},
+{
+    "id": "manontasA10",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A10-a.jpg",
+        "manon_tasse_A10-b.jpg"
+    ]
+},
+{
+    "id": "manontasA11",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A11-a.jpg",
+        "manon_tasse_A11-b.jpg"
+    ]
+},
+{
+    "id": "manontasA12",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A12-a.jpg",
+        "manon_tasse_A12-b.jpg"
+    ]
+},
+{
+    "id": "manontasA13",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A13-a.jpg",
+        "manon_tasse_A13-b.jpg"
+    ]
+},
+{
+    "id": "manontasA14",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A14-a.jpg",
+        "manon_tasse_A14-b.jpg"
+    ]
+},
+{
+    "id": "manontasA15",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A15-a.jpg",
+        "manon_tasse_A15-b.jpg"
+    ]
+},
+{
+    "id": "manontasA16",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A16-a.jpg",
+        "manon_tasse_A16-b.jpg"
+    ]
+},
+{
+    "id": "manontasA17",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A17-a.jpg",
+        "manon_tasse_A17-b.jpg"
+    ]
+},
+{
+    "id": "manontasA18",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A18-a.jpg",
+        "manon_tasse_A18-b.jpg"
+    ]
+},
+{
+    "id": "manontasA19",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A19-a.jpg",
+        "manon_tasse_A19-b.jpg"
+    ]
+},
+{
+    "id": "manontasA20",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A20-a.jpg",
+        "manon_tasse_A20-b.jpg"
+    ]
+},
+{
+    "id": "manontasA21",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A21-a.jpg",
+        "manon_tasse_A21-b.jpg"
+    ]
+},
+{
+    "id": "manontasA22",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A22-a.jpg",
+        "manon_tasse_A22-b.jpg"
+    ]
+},
+{
+    "id": "manontasA23",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A23-a.jpg",
+        "manon_tasse_A23-b.jpg"
+    ]
+},
+{
+    "id": "manontasA24",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A24-a.jpg",
+        "manon_tasse_A24-b.jpg"
+    ]
+},
+{
+    "id": "manontasA25",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A25-a.jpg",
+        "manon_tasse_A25-b.jpg"
+    ]
+},
+{
+    "id": "manontasA26",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A26-a.jpg",
+        "manon_tasse_A26-b.jpg"
+    ]
+},
+{
+    "id": "manontasA27",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A27-a.jpg",
+        "manon_tasse_A27-b.jpg"
+    ]
+},
+{
+    "id": "manontasA28",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A28-a.jpg",
+        "manon_tasse_A28-b.jpg"
+    ]
+},
+{
+    "id": "manontasA29",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A29-a.jpg",
+        "manon_tasse_A29-b.jpg"
+    ]
+},
+{
+    "id": "manontasA30",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A30-a.jpg",
+        "manon_tasse_A30-b.jpg"
+    ]
+},
+{
+    "id": "manontasA31",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A31-a.jpg",
+        "manon_tasse_A31-b.jpg"
+    ]
+},
+{
+    "id": "manontasA32",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A32-a.jpg",
+        "manon_tasse_A32-b.jpg"
+    ]
+},
+{
+    "id": "manontasA33",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A33-a.jpg",
+        "manon_tasse_A33-b.jpg"
+    ]
+},
+{
+    "id": "manontasA34",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A34-a.jpg",
+        "manon_tasse_A34-b.jpg"
+    ]
+},
+{
+    "id": "manontasA35",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A35-a.jpg",
+        "manon_tasse_A35-b.jpg"
+    ]
+},
+{
+    "id": "manontasA36",
+    "titre": {
+        "en": "茶杯 - CháBēi (small tea bowl)",
+        "fr": "茶杯 - CháBēi (petit bol à thé)"
+    },
+    "modification": "2023-09-17",
+    "création": "2023-09-17",
+    "catégorie": "manon-clouzeau",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 15,
+    "dimension": "7 cm x 3 cm",
+    "poids": 0.035,
+    "capacité": "40 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "manon_tasse_A36-a.jpg",
+        "manon_tasse_A36-b.jpg"
+    ]
+},
+{
+    "id": "manongaA1",
+    "titre": {
+        "en": "蓋碗 - GàiWǎn",
+        "fr": "蓋碗 - GàiWǎn"
+    },
+    "modification": "2021-09-08",
+    "création": "2021-09-08",
+    "catégorie": "Manon Clouzeau",
+    "description": {
+        "en": "Glazed GàiWǎn. Unique piece.",
+        "fr": "GàiWǎn émaillé. Pièce unique."
+    },
+    "prix": 45.00,
+    "poids": 0.093,
+    "capacité": 70,
+    "quantité_produite": 1,
+    "photos": [
+        "manon_gaiwan_A1-a.jpg",
+        "manon_gaiwan_A1-b.jpg"
+    ]
+},
+{
+    "id": "manongaA2",
+    "titre": {
+        "en": "蓋碗 - GàiWǎn",
+        "fr": "蓋碗 - GàiWǎn"
+    },
+    "modification": "2021-09-08",
+    "création": "2021-09-08",
+    "catégorie": "Manon Clouzeau",
+    "description": {
+        "en": "Glazed GàiWǎn. Unique piece.",
+        "fr": "GàiWǎn émaillé. Pièce unique."
+    },
+    "prix": 45.00,
+    "poids": 0.093,
+    "capacité": 70,
+    "quantité_produite": 1,
+    "photos": [
+        "manon_gaiwan_A2-a.jpg",
+        "manon_gaiwan_A2-b.jpg"
+    ]
+},
+{
+    "id": "manongaA3",
+    "titre": {
+        "en": "蓋碗 - GàiWǎn",
+        "fr": "蓋碗 - GàiWǎn"
+    },
+    "modification": "2021-09-08",
+    "création": "2021-09-08",
+    "catégorie": "Manon Clouzeau",
+    "description": {
+        "en": "Glazed GàiWǎn. Unique piece.",
+        "fr": "GàiWǎn émaillé. Pièce unique."
+    },
+    "prix": 45.00,
+    "poids": 0.093,
+    "capacité": 70,
+    "quantité_produite": 1,
+    "photos": [
+        "manon_gaiwan_A3-a.jpg",
+        "manon_gaiwan_A3-b.jpg"
+    ]
+},
+{
+    "id": "manongaA4",
+    "titre": {
+        "en": "蓋碗 - GàiWǎn",
+        "fr": "蓋碗 - GàiWǎn"
+    },
+    "modification": "2021-09-08",
+    "création": "2021-09-08",
+    "catégorie": "Manon Clouzeau",
+    "description": {
+        "en": "Glazed GàiWǎn. Unique piece.",
+        "fr": "GàiWǎn émaillé. Pièce unique."
+    },
+    "prix": 45.00,
+    "poids": 0.093,
+    "capacité": 70,
+    "quantité_produite": 1,
+    "photos": [
+        "manon_gaiwan_A4-a.jpg",
+        "manon_gaiwan_A4-b.jpg"
+    ]
+},
+{
+    "id": "jeBolA1",
+    "titre": {
+        "en": "Small glazed teapot",
+        "fr": "Petite théière émaillée"
+    },
+    "modification": "2021-02-27",
+    "création": "2022-02-27",
+    "catégorie": "je-le-potier",
+    "description": {
+        "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+        "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+    },
+    "prix": 18, 
+    "poids": 0.070,
+    "capacité": "50 ml",
+    "quantité_produite": 30,
+    "photos": [
+        "jerome_bol_A1-a.jpg",
+        "jerome_bol_A1-b.jpg"
+    ]
+},
+{
+    "id": "jeVersA1",
+    "titre": {
+        "en": "Small glazed teapot",
+        "fr": "Petite théière émaillée"
+    },
+    "modification": "2021-02-27",
+    "création": "2022-02-27",
+    "catégorie": "je-le-potier",
+    "description": {
+        "en": "Glazed pourer of 4.4oz",
+        "fr": "Verseuse de 13cl émaillée."
+    },
+    "prix": 26, 
+    "poids": 0.25,
+    "capacité": "140 ml",
+    "quantité_produite": 1,
+    "photos": [
+        "jerome_verseuse_A1-a.jpg",
+        "jerome_verseuse_A1-b.jpg"
     ]
 },
 {
