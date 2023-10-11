@@ -8,7 +8,7 @@ BiǎnXīShī
 
 https://www.somage.fr/products/handmade-yixing-green-clay-teapot-round-xi-shi-hu-240ml-teaware
 
-晓桂非 XiǎoGuìFēi
+小貴妃 XiǎoGuìFēi
 - 4 beautés
 
 1er tps -
