@@ -1,4 +1,4 @@
-## retailler les photos
+## retailer les photos
 
 ouvrir le terminal
 
