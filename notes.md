@@ -57,7 +57,7 @@ github.com/brutdethe 是 BdT 的倉庫。儲存了所有BdT 有關的資料，�
 -注意：記得每次操作檔案完後要儲存enregistrer。使用 -Ctrl s- 或者到左上方 -fichier-選擇 -engregistrer- 直接存到檔案裏；又或 -engregistrer sous-選擇要儲存到的dossier裏。
 
 
-把BdT 在 github 裏的資料下載到電腦 -local-裏，如此以來，即使沒有連線的情況下也可以作業，一旦下次和github連上時，就會同步更新 syncroniser。這是VSCodium 的功能。
+把BdT 在 github 裏的資料下載到電腦 -local-裏，如此以來，即使沒有連線的情況下也可以作業，一旦下次和github連上時，就會同步更新 synchroniser les modifications。這是VSCodium 的功能。
 
 
 
@@ -65,5 +65,14 @@ github.com/brutdethe 是 BdT 的倉庫。儲存了所有BdT 有關的資料，�
 ## pas de mot de passe ou infomation personnel dans le VSCodium
 
 因爲在這上面的資料，有時候公衆是可以看到的。所有私密的資料都放到 Bitwarden上。
+
+
+
+
+## 如何把新檔案下載然後傳送到guithub/brutdethe上
+
+-先把新檔案下載到電腦 -dossier personnel_favoris_brutdethe_zone privé (ou autre),上方的barre 上是 -yalin/documents/guithub/brudethe/dossier choisi 後，開啓VSCodium 進行同步更新。
+
+-開啓VSCodium, 左上方 -Fichier-點選
 
 
