@@ -150,7 +150,7 @@
         },
         "prix": 18,
         "poids": 0.0375,
-        "quantité_produite": 3,
+        "quantité_produite": 1,
         "producteur": "Monsieur 李 - Lǐ",
         "récolte": "automne 2021",
         "type": "白茶 - BáiChá",
@@ -357,7 +357,7 @@
         },
         "prix": 15,
         "poids": 0.025,
-        "quantité_produite": 10,
+        "quantité_produite": 12,
         "producteur": {
             "fr": "Monsieur 李 - Lǐ",
             "en": "Mrs  李 - Lǐ"
