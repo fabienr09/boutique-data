@@ -665,30 +665,6 @@
         ]
     },
     {
-        "id": "perrinebol13",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-05-17",
-        "création": "2023-05-17",
-        "catégorie": "perrine-pottiez",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 20,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
-        "capacité": "30 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "perrine_tasse_13-a.jpg",
-            "perrine_tasse_13-b.jpg",
-            "perrine_tasse_13-c.jpg"
-        ]
-    },
-    {
         "id": "perrinebol21",
         "titre": {
             "en": "茶杯 - CháBēi (small tea bowl)",
@@ -1225,29 +1201,6 @@
         "photos": [
             "manon_tasse_A34-a.jpg",
             "manon_tasse_A34-b.jpg"
-        ]
-    },
-    {
-        "id": "manontasA35",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-09-17",
-        "création": "2023-09-17",
-        "catégorie": "manon-clouzeau",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 15,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
-        "capacité": "40 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "manon_tasse_A35-a.jpg",
-            "manon_tasse_A35-b.jpg"
         ]
     },
     {
