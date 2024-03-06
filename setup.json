@@ -1,12 +1,12 @@
 {
-    "forme_social": "association",
+    "forme_social": "Sarl Art de prendre Soin de l'économie solidaire et sociale",
     "logo": "https://raw.githubusercontent.com/brutdethe/boutique-data/main/logo.svg",
     "nom": "Brut de thé",
-    "a_propos": "https://www.brutdethé.fr/pages/faq-boutique",
-    "proprietaire": "Stéphane Langlois, Yalin Cheng",
+    "a_propos": "https://www.lagaulesouveraine.com/pages/faq-boutique",
+    "proprietaire": "Fabien Roidor",
     "email": "coucou@brutdethe.fr",
-    "site": "https://boutique.brutdethé.fr",
-    "siege": "1275 route du Taus, Terre Pure, 09320 Soulan",
+    "site": "https://boutique.b.fr",
+    "siege": "2 route du col de Port, 09320 Massat",
     "enregistrement": "des greffes du tribunal de Foix",
     "RCS": "899 032 494",
     "APE": "1083-Z"
