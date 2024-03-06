@@ -1,13 +1,15 @@
 {
-    "forme_social": "Sarl Art de prendre Soin de l'économie solidaire et sociale",
-    "logo": "https://raw.githubusercontent.com/brutdethe/boutique-data/main/logo.svg",
-    "nom": "Brut de thé",
+    "forme_social": "Sarl de l'économie sociale et solidaire - Art de prendre Soin",
+    "logo": "https://raw.githubusercontent.com/fabienr09/boutique-data/main/logo.svg",
+    "nom": "La gaule souveraine",
     "a_propos": "https://www.lagaulesouveraine.com/pages/faq-boutique",
     "proprietaire": "Fabien Roidor",
-    "email": "coucou@brutdethe.fr",
+    "email": "contact@lagaulesouveraine.com",
     "site": "https://boutique.b.fr",
-    "siege": "2 route du col de Port, 09320 Massat",
-    "enregistrement": "des greffes du tribunal de Foix",
-    "RCS": "899 032 494",
-    "APE": "1083-Z"
+    "siege": "Le Carol, 09320 Le Port",
+    "atelier": "2 route du col de Port, 09320 Massat",
+    "enregistrement": "Greffe du tribunal de Commerce de Foix",
+    "RCS": "850 185 687",
+    "APE": "1039B"
+"CAPITAL": "10 000 euros",
 }
